@@ -1,318 +1,244 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-02-14T12:53:01-08:00</updated><id>/feed.xml</id><entry><title type="html">How to get the fastest green card</title><link href="/2021/10/30/fast-greencard.html" rel="alternate" type="text/html" title="How to get the fastest green card" /><published>2021-10-30T00:00:00-07:00</published><updated>2021-10-30T00:00:00-07:00</updated><id>/2021/10/30/fast-greencard</id><content type="html" xml:base="/2021/10/30/fast-greencard.html">&lt;p&gt;With the right background, enough commitment, and a bit of luck, it is possible to functionally get a green card in under a year with the EB1.
-I recently went through the process, so I’m documenting how it works and sharing some lessons I’ve learned. &lt;!--more--&gt; My own journey started when I read a similar blog post by &lt;a href=&quot;https://www.julian.com/&quot;&gt;Julian Shapiro&lt;/a&gt; almost three years ago, so it’s only fair to pay it forward.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-17T18:21:43-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Gimbowl</title><link href="http://localhost:4000/2022/04/08/gimbowl.html" rel="alternate" type="text/html" title="Gimbowl" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>http://localhost:4000/2022/04/08/gimbowl</id><content type="html" xml:base="http://localhost:4000/2022/04/08/gimbowl.html"><![CDATA[<p>Solend is a decentralized lending and borrowing protocol on Solana. I designed and helped them implement pool feature to help users better navigate through different assets.</p>]]></content><author><name>Yishan</name></author><summary type="html"><![CDATA[I rebranded gimbOWL to speak to their potential buy group and redesigned the shopping site.]]></summary></entry><entry><title type="html">Train</title><link href="http://localhost:4000/2022/04/08/train.html" rel="alternate" type="text/html" title="Train" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>http://localhost:4000/2022/04/08/train</id><content type="html" xml:base="http://localhost:4000/2022/04/08/train.html"><![CDATA[<div class="side-title"> 00.  OVERVIEW </div>
 
-&lt;p&gt;I have a lot of feelings about the way immigration works in this country, but I’ll be saving those for the next posts, where I’ll go more in-depth about the price we all pay for the bad employment policy, and some ideas on how to fix it. If you’d like to get an email when that comes out, consider subscribing via email or RSS.&lt;/p&gt;
+<h3 id="i-designed-a-mobile-app-that-allows-investors-to-track-investment-across-multiple-platforms-and-make-better-investment-decisions">I designed a mobile app that allows investors to track investment across multiple platforms and make better investment decisions.</h3>
 
-&lt;p&gt;Before we get further, you should know I’m not a lawyer, though I’ve worked at length with three immigration law firms, have personally immigrated twice, and talk often with friends in similar situations. If you are seriously considering going through with an EB-1, I advise you to consult a lawyer.&lt;/p&gt;
+<p>I made a mobile App mock-up and prototyping using Figma. Users can use the App to track their investment performance within one App instead of switching between different platforms.</p>
 
-&lt;h2 id=&quot;whats-the-eb1&quot;&gt;What’s the EB1?&lt;/h2&gt;
-&lt;p&gt;Often referred to as the “extraordinary talent green card” or “Employment-based, first preference green card”, the EB1 green card is very fast and does not require employer sponsorship. On the flip side, it is also the most effortful to get, due to the high bar one needs to meet. As a result, it’s generally most interesting to professionally accomplished Indian or Chinese nationals who might otherwise have to wait up to ten years, or any person who wants to avoid being tied to a sponsoring employer.&lt;/p&gt;
+<div class="side-title"> 01.  BACKGROUND </div>
 
-&lt;h2 id=&quot;eligibility-criteria&quot;&gt;Eligibility criteria&lt;/h2&gt;
-&lt;p&gt;To qualify for an EB1 green card, applicants must satisfy at least three of the following &lt;a href=&quot;https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1&quot;&gt;ten criteria&lt;/a&gt;. Though this list might seem to suggest that only the Einsteins, DiCaprios or Biles of the world have a shot, the reality is that most decently successful and well-connected professional can reasonably build up the evidence given enough time and will. So here they are, summarized:&lt;/p&gt;
+<h3 id="what-can-i-do-to-help-investors-save-time-and-better-track-their-investments-on-different-platforms">What can I do to help investors save time and better track their investments on different platforms?</h3>
 
-&lt;ul&gt;
-  &lt;li&gt;Receiving big prizes or awards for excellence&lt;/li&gt;
-  &lt;li&gt;Being a part of associations that demand high achievement&lt;/li&gt;
-  &lt;li&gt;Being featured in professional or major trade media&lt;/li&gt;
-  &lt;li&gt;Judging the work of others&lt;/li&gt;
-  &lt;li&gt;Making major and original contributions to your field&lt;/li&gt;
-  &lt;li&gt;Writing articles in professional publications&lt;/li&gt;
-  &lt;li&gt;Being part of artistic exhibitions or showcases&lt;/li&gt;
-  &lt;li&gt;Performing a critical role in well-known organizations&lt;/li&gt;
-  &lt;li&gt;Commanding a high salary&lt;/li&gt;
-  &lt;li&gt;Being commercially successfully in the performing arts&lt;/li&gt;
-&lt;/ul&gt;
+<p>Investment has never been this easy and this hard. Individual investors have so many different investment platforms to trade various assets, as a result, if they want to compare their investment performances, they need to switch between different platforms.</p>
 
-&lt;p&gt;For each of these criteria, applicants use a combination of letters from authoritative figures and objective documentary evidence, which is what the USCIS likes to call facts, to demonstrate their eligibility. It is also possible, though rare, to instead demonstrate a single major international achievement on the magnitude of a Nobel prize, Fields medal, Oscar, Grammy, etc.&lt;/p&gt;
+<div class="side-title"> 02.  DEFINING </div>
+
+<h3 id="feature-prioritization">Feature prioritization</h3>
+
+<p>From user testing and informal interview with people, I identified key features I want to incorporate into the App, and some backup features to be included as the next step.</p>
+
+<figure>
+    <img src="/assets/img/trainCase01.jpg" />
+</figure>
 
-&lt;p&gt;Regardless, once the application is filed, an adjudicator at USCIS then evaluates the evidence in a two-step process: first ensuring that each criterion has been met, then evaluating the sum of all evidence against the bar for extraordinary achievement in a process called the final merits determination. At the end of the evaluation, they will issue either a pass, a request for evidence (RFE for short), or a denial (rare). The most common outcome is an RFE, where specific additional detail will be demanded from the applicant. Successfully meeting this request results in a pass. Failure results in a denial, though denials are not final, as applicants can refile as many times as they want.&lt;/p&gt;
+<div class="side-title"> 03.  ITERATIONS </div>
 
-&lt;p&gt;For me, it took on the order of a few hundred hours to establish the necessary evidence, and then another hundred hours to document my achievements. It was by no means easy, but since the work of meeting these criteria is generally aligned with a successful career, the time spent was rarely wasted, even if I were to fail to get a green card.&lt;/p&gt;
+<h3 id="early-sketches">Early sketches</h3>
 
-&lt;h2 id=&quot;my-application&quot;&gt;My application&lt;/h2&gt;
-&lt;p&gt;Though every application is unique, I’m sharing mine here so that it may act as a data point when you consider whether the EB1 is for you. For background, I am a Canadian citizen born in China. For the last six years, I’ve been a product designer working for tech companies in the San Francisco bay area. I submitted my application based on the following five criteria. While only three are necessary, most people submit an extra one or two just to be safe. For another &lt;a href=&quot;https://www.tefter.io/bookmarks/48931/readable&quot;&gt;good example&lt;/a&gt;, check out Julian’s post.&lt;/p&gt;
+<p>Once I identified the key features, I sketched key screens,  including connecting accounts, viewing investments, comparing assets, and analytical data.</p>
 
-&lt;p&gt;&lt;strong&gt;Making major and original contributions to your field:&lt;/strong&gt; My contribution to the field was the creation of a popular Figma plugin called &lt;a href=&quot;flowchart.plugin&quot;&gt;Autoflow&lt;/a&gt;. At the time of application, it had been installed more than 250,000 times and was used by teams at large well-known companies. I was lucky to have met Dylan Field, the CEO of Figma, at an event at a time when they happened to be opening up the plugin program to alpha developers and managed to become one of the launch plugins six months later, leading to a ton of organic growth. The supporting evidence in my package included install and usage statistics, and a letter from the CEO of Figma speaking to its importance, and screenshots from blogs discussing the plugin.&lt;/p&gt;
+<figure>
+    <img src="/assets/img/trainCase02.jpg" />
+</figure>
 
-&lt;p&gt;&lt;strong&gt;Performing a critical role in well-known organizations:&lt;/strong&gt; In my day job, I’ve led the design of several high-profile projects at Coinbase, most notably the rewrite and redesign of both mobile applications. We also included several projects I’ve been a small contributor to as a contractor at Google. The final evidence includes a letter from the CEO of Coinbase and letters from a product manager and design executive at Google.&lt;/p&gt;
+<h3 id="usertesting">Usertesting</h3>
 
-&lt;p&gt;&lt;strong&gt;Commanding a high salary:&lt;/strong&gt; thanks to the recent Coinbase IPO and generally competitive bay area tech designer salaries, we were able to demonstrate that I was paid well above the average of my field by drawing comparisons to several salary aggregator websites like Glassdoor.&lt;/p&gt;
+<p>I had some friends test out the paper sketch and see if anything was unclear and took notes of their reactions while they tried the sketch. I identified a couple of problems with the current sketch.</p>
 
-&lt;p&gt;&lt;strong&gt;Judging the work of others:&lt;/strong&gt; I judged five university hackathons. Two hackathon organizers issued letters detailing the merits on which the applicant was selected as a judge, as well as a list of other judges, which included executives of well-known companies, professors, and public figures. This criterion seems generally pretty easy to hit as it’s worded fairly generously, though meeting the strict minimum as I did might not contribute as much to your final merits.&lt;/p&gt;
+<h4 id="whats-working-">What’s working? 👍</h4>
+<ol>
+  <li>Sign in screen and connect account screen look familiar to the user</li>
+  <li>Testers can understand what the analysis screen does</li>
+  <li>Compare screen is straightforward and clear</li>
+</ol>
 
-&lt;p&gt;&lt;strong&gt;Writing articles in professional publications:&lt;/strong&gt; I spoke in a mix of podcast, local, and online events, both individually and as part of a panel. Though the criteria technically asked for scholarly articles, we figured that if we can get a reputable academic (we got a VC and lecturer at the Stanford d.school) to say how the product design field shares professional findings in podcasts and talks instead of journals, that we can make my public appearances count.&lt;/p&gt;
+<h4 id="whats-not-working-">What’s not working? 👎</h4>
+<ol>
+  <li>Testers are confused about the change view tab on the home screen</li>
+  <li>Testers are unsure about the difference between browse and analysis</li>
+  <li>Testers pointed out the button to change the time frame on the analysis screen seems to be repetitive as the sliding bar</li>
+</ol>
 
-&lt;h2 id=&quot;responding-to-rfes-and-denials&quot;&gt;Responding to RFEs and denials&lt;/h2&gt;
-&lt;p&gt;Like many applicants in the post-2016 era, my application was met with an RFE, and then later a denial. It was devastating at first because the grounds on which I was denied seemed shaky at best. But we gathered more evidence, got even more letters covering USCIS’s rejection, and were ultimately approved on what was substantially the same case, but with more robust documentation and a better-structured argument. I’m being intentionally brief here because the details were highly specific to my case but still wanted to bring this up to show that getting an RFE or a denial is not an insurmountable obstacle.&lt;/p&gt;
+<div class="side-title"> 04.  IDENTITY </div>
 
-&lt;h2 id=&quot;timeline&quot;&gt;Timeline&lt;/h2&gt;
+<h3 id="ui-elements">UI Elements</h3>
 
-&lt;p&gt;The theoretical fastest possible timeline is something like this:&lt;/p&gt;
+<p>I designed typography, components, and UI elements to be consistent across different screens.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;1 month to gather evidence and prepare the I-140, I-485, I-131, and I-765&lt;/li&gt;
-  &lt;li&gt;0.5 months to hear back from USCIS&lt;/li&gt;
-  &lt;li&gt;6-9 months to receive employment authorization documents &amp;amp; travel authorization&lt;/li&gt;
-&lt;/ul&gt;
+<figure>
+    <img src="/assets/img/trainCase03.jpg" />
+</figure>
 
-&lt;p&gt;Once you have the latter two, you effectively have all the perks of a green card. However, in practice, few people seem to have such a smooth experience. Between RFEs, denials, and letter writers and lawyers dragging their feet, a more realistic timeline is around one to one and half years. Below is a more detailed account of the steps involved and their rough timeline as of October 2021.&lt;/p&gt;
+<div class="side-title"> 05.  IDENTITY </div>
 
-&lt;p&gt;&lt;strong&gt;Get supporting letters (2–4 months):&lt;/strong&gt; The applicant builds evidence and gets support letters demonstrating how they meet at least three of the ten EB1 criteria. Outcome: Applicant has strong evidence and support letters.&lt;/p&gt;
+<h3 id="ui-design-and-prototyping">UI Design and Prototyping</h3>
 
-&lt;p&gt;&lt;strong&gt;Submit I-140 application (15 days approval):&lt;/strong&gt; Evidence and supporting letters are mailed into USCIS, along with a filled-out form I-140. This is the official green card application. This usually takes 3-6 months. Applicants can pay $1,500 for a 15-day response. This is called premium processing. Outcome: Greencard application is either accepted, RFE’ed, or rejected&lt;/p&gt;
+<p>After I redesigned the screen for all four key screens and did prototyping and user testing to make sure the design and interactions make sense.</p>
 
-&lt;p&gt;&lt;strong&gt;Respond to RFE (0–2 months):&lt;/strong&gt; If your application receives a request for evidence, you have three months (?) to bring additional documents and/or objections. Approval time is 15 days if premium processing was purchased. Outcome: Greencard application is either accepted or rejected&lt;/p&gt;
+<div class="mobile-video">
+  <figure>
+      <img src="/assets/img/trainCase04.jpg" />
+  </figure>
+  <div class="mobile-video-description">
+      <h4>Onboarding</h4>
+      <p>I try to make the on boarding experience easy and user friendly for the new users. They can follow the step by step guidance and easily create account and connect investment account they have.</p>
+  </div>
+</div>
 
-&lt;p&gt;&lt;strong&gt;Prepare and submit an I-485 adjustment of status (1 week to prepare 9-12 months to approve):&lt;/strong&gt; If an application is accepted and if the applicant’s country’s date of filing is current, the applicant can now file a request to change their status to a permanent resident via form I-485. To get the green card faster, applicants can file the I-485 before their I-140 is accepted, with the risk of wasting money and effort should the latter be rejected. Approval time: Depends on which USCIS service center you applied with. Outcome: Receive greencard.&lt;/p&gt;
+<div class="mobile-video">
+  <figure>
+      <img src="/assets/img/trainCase05.jpg" />
+  </figure>
+  <div class="mobile-video-description">
+      <h4>Combined and individual investment</h4>
+      <p>Combined Investment and time tab
+        Once users connect their investment accounts, they will see their combined investment performance over a different period, and they can easily switch the time frame.
+        
+        Categoriezed assets card
+        Below the combined investment chart, users can see their assets categorized into different cards based on the type. The category with the most money will appear on the top, and when users switch time frames, they will see other cards appear on the top.
+        
+        List of individual assets
+        Users can also expand the card and see a detailed list of assets in each category.</p>
+  </div>
+</div>
 
-&lt;p&gt;&lt;strong&gt;Apply for I-131 travel document and I-765 employment authorization (6-9 months)&lt;/strong&gt; Because it can take a long time for an adjustment of status to get approved, people usually apply for travel documents and employment authorization at the same time. These are faster to get, and when combined, provide almost all the benefits of holding a green card while you wait for I-485 approval. Approval time: Depends on which USCIS service center you applied with. Outcome: Be able to travel freely and work for whoever you want&lt;/p&gt;
+<div class="mobile-video">
+  <figure>
+      <img src="/assets/img/trainCase06.jpg" />
+  </figure>
+  <div class="mobile-video-description">
+      <h4>Analytical Data</h4>
+      <p>See top gainers and losers
+        See top gainers and losers in all of your assets within a different time frame.
+        
+        See portfolio composition
+        A pie chart shows each category's portfolio composition and breaks each type into different sectors.</p>
+  </div>
+</div>
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;If this whole process sounds incredibly onerous and at times wholly at the mercy of a single capricious USCIS officer, it is because it is. However, for half of the world’s population, the choice is between this and waiting up to ten years in the normal green card queue for India and China, without being able to change jobs, freelance, or start your own company.&lt;/p&gt;
+<div class="mobile-video">
+  <figure>
+      <img src="/assets/img/trainCase06.jpg" />
+  </figure>
+  <div class="mobile-video-description">
+      <h4>Compare Investment</h4>
+      <p>Select individual assets and compare their performance within the selected time frame.</p>
+  </div>
+</div>
 
-&lt;p&gt;And for those of you who have made it this far, and are wondering whether you should try, my experience has been that you’ll find help everywhere – even from people who should have every right to be too busy. Immigration is an act of love – for a place, a community, and the ideals of a country. And when you share that with people, they’ll want to rally behind you.&lt;/p&gt;
+<div class="side-title"> 06.  REFLECTION </div>
 
-&lt;h2 id=&quot;additional-learnings&quot;&gt;Additional learnings&lt;/h2&gt;
+<h3 id="what-would-i-have-done-differently">What would I have done differently?</h3>
 
-&lt;ul&gt;
-  &lt;li&gt;Generally it is better to put on a strong showing for fewer criteria, than trying to do more but less well.&lt;/li&gt;
-  &lt;li&gt;If you have a previously accepted I-140 from a lower preference (EB2 or EB3), you can use that date to accelerate your EB1 if your country is not current.&lt;/li&gt;
-  &lt;li&gt;It helps to have access to famous people: senior executives, well-known professionals in your field, professors, public figures, etc. Cultivate these relationships early.&lt;/li&gt;
-  &lt;li&gt;If you don’t already clearly meet these criteria, plan for one to two years to go meet them.&lt;/li&gt;
-  &lt;li&gt;Get your letters on official letterhead, even if it’s not technically required. It can be a cause of RFE. In a pinch, a “personal” letterhead could do.&lt;/li&gt;
-  &lt;li&gt;If your EB1 is approved, this means you’re almost guaranteed to also get approved for the O1 visa, which can be convenient if you need to work in the US while your green card is processing.&lt;/li&gt;
-  &lt;li&gt;For people who are very likely to agree to sign a letter, it is better to pre-write the letter for them before you even ask if they want to do it. This way, you can immediately give them something to sign once they agree, saving yourself the back and forth from your lead going cold while your legal team works on the letter. You’ll be getting a lot of letters, so this adds up.&lt;/li&gt;
-  &lt;li&gt;On non-immigrant visas like the TN, it is inadvisable to leave the country from the day you submit your application until you get your travel authorization, even if your application is accepted. This could last anywhere from 6–8 months. You should plan for this.&lt;/li&gt;
-  &lt;li&gt;The country of the green card applicant is not based on their citizenship, but place of birth. A British citizen born in India is Indian from this perspective.&lt;/li&gt;
-  &lt;li&gt;Spouses also get a green card if you file together. Ideally, you are already married when the I-140 is filed, but in a pinch, a spouse can be added after the I-485 is submitted, and before the green card is officially issued.&lt;/li&gt;
-  &lt;li&gt;When challenging an RFE, it is best to also respond to the request, even if unreasonable, as a show of good faith.&lt;/li&gt;
-  &lt;li&gt;USCIS publishes a &lt;a href=&quot;https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-2#footnote-4&quot;&gt;policy manual&lt;/a&gt; with a detailed explanation of how adjudicators should think about EB1 eligibility and references specific articles of law.&lt;/li&gt;
-  &lt;li&gt;One increasingly popular form of denial is granting all the criteria, but denying the final merits. In anticipation of this, it is helpful to explicitly address this requirement in I-140 application.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Yitong</name></author><summary type="html">With the right background, enough commitment, and a bit of luck, it is possible to functionally get a green card in under a year with the EB1. I recently went through the process, so I’m documenting how it works and sharing some lessons I’ve learned.</summary></entry><entry><title type="html">Dark Forest captain’s log 2</title><link href="/2021/05/31/darkforest2.html" rel="alternate" type="text/html" title="Dark Forest captain’s log 2" /><published>2021-05-31T00:00:00-07:00</published><updated>2021-05-31T00:00:00-07:00</updated><id>/2021/05/31/darkforest2</id><content type="html" xml:base="/2021/05/31/darkforest2.html">&lt;p&gt;Day seven in the dark forest, where I’m now strategically watching commit logs and deploying more hash power. Also, a dispatch from meatspace. &lt;!--more--&gt; It’s a good thing that my still humble civilization is now large enough that the pending transaction queue is preventing me from logging in to pilot, because otherwise, I’d still be doing that. Anyway, let’s start with a check in on the todos from last time.&lt;/p&gt;
+<p>I had a lot of fun designing a product that solved a problem I’m constantly having, but I wish I started thinking about the direction I was going after talking to more people and did more user research.  I might have pivoted my direction, who knows?</p>
 
-&lt;p&gt;Exploration server: I found this managed deployment tool called Zeet. Following their &lt;a href=&quot;https://blog.zeet.co/eth/&quot;&gt;Dark Forest guide&lt;/a&gt;, I deployed three instances of the explorer for free, adding another ~3600 hash/s to my exploration. This is an improvement, but to be competitive, I’ll most likely still have to set up my own servers, since scaling on Zeet is quite expensive.&lt;/p&gt;
+<p>Some of the UI elements I designed looked good to me back then, but now my design skill is sharpened I would have made different design decisions.</p>
 
-&lt;p&gt;Silver distribution: Someone just published a &lt;a href=&quot;https://github.com/darkforest-eth/plugins/pull/60&quot;&gt;major update&lt;/a&gt; to the Distribute silver plugin, implementing a rudimentary, but nonetheless functional version of silver convoying to rips.&lt;/p&gt;
+<h3 id="next-steps">Next Steps</h3>
 
-&lt;p&gt;In general, it seems like open source tooling is getting better at a rapid pace. So much so that I expect that good plugins will emerge for all basic operation of the core mechanics. For example, here’s another &lt;a href=&quot;https://github.com/darkforest-eth/plugins/pull/65&quot;&gt;great plugin&lt;/a&gt; from just two days ago, which centralizes resources to large/useful planets. In fact, I suspect that an important part of the future gameplay will involve watching the &lt;a href=&quot;https://github.com/darkforest-eth/plugins/commits/master&quot;&gt;commit log&lt;/a&gt; of the plugin repo.&lt;/p&gt;
+<p>I want to go back and revisit the design and finesse some UI elements, and publish this App.</p>]]></content><author><name>Yishan</name></author><summary type="html"><![CDATA[00. OVERVIEW]]></summary></entry><entry><title type="html">Solend</title><link href="http://localhost:4000/2022/04/08/solend.html" rel="alternate" type="text/html" title="Solend" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>http://localhost:4000/2022/04/08/solend</id><content type="html" xml:base="http://localhost:4000/2022/04/08/solend.html"><![CDATA[<div class="side-title"> 00.  BACKGROUND </div>
 
-&lt;p&gt;Given my expectation of open source tooling, my current hypothesese on where one should invest to gain a technical edge are:&lt;/p&gt;
+<h3 id="solend-is-a-fast-growing-decentralized-lending-platform-with-a-total-supply-of-126b-since-first-established-in-2021">Solend is a fast-growing decentralized lending platform with a total supply of $1.26B since first established in 2021.</h3>
 
-&lt;h2 id=&quot;hashrate&quot;&gt;Hashrate&lt;/h2&gt;
-&lt;p&gt;This one is pretty simple. Clearing the fog of war means you can expand more strategically, engage in diplomacy, plan for the long term, etc. It’s unlikely that players will want to open source their map, this being a dark forest after all. So being able to deploy lots of hash power will remain a competitive edge.&lt;/p&gt;
+<p>The number of available assets to trade on the platform is growing fast.</p>
 
-&lt;h2 id=&quot;automation&quot;&gt;Automation&lt;/h2&gt;
-&lt;p&gt;Assuming no one is piloting full time, establishing and optimizing some expansion, upgrade, and silver routing routines should at least double a pilot’s effectiveness. Basically, &lt;a href=&quot;https://github.com/darkforest-eth/plugins/blob/master/content/productivity/repeat-attack/plugin.js&quot;&gt;repeat attack&lt;/a&gt;, but for everything.&lt;/p&gt;
+<p>The current website has all the assets displayed as one list, but the fast-growing number of assets added to the platform regularly made it hard for users to find and navigate through the list of assets.</p>
 
-&lt;h2 id=&quot;dipatches-from-meatspace&quot;&gt;Dipatches from meatspace&lt;/h2&gt;
-&lt;p&gt;Lastly, I’ve had a chance to meet some fellow pilots both physically and via Telegram. The community is small, engaged, and hyper sophisticated – I’ve even been recruited into a budding DAO with access to a eye-watering amount of hash power. And just for contrast, I also met a top 15 player who’s been playing purely manually, beating many more technically sophisticated players, including the DAO I’ve been recruited into. His advice to me: was that diplomacy might be the highest leverage human activity. Make sense.&lt;/p&gt;
+<figure>
+    <img src="/assets/img/solendCase01.jpg" />
+</figure>
 
-&lt;h2 id=&quot;miscellaneous-learnings&quot;&gt;Miscellaneous learnings:&lt;/h2&gt;
-&lt;p&gt;Exploration: It seems like anything L5 and above gets significantly rarer, so the game right now is to expand from L4 to L4, growing the reach of my holdings until I find an uncompetitive L5+. This means hashrate is once again a rate limiter since expanding the number of holdings of the same level offers linear growth, while acquiring a planet of the next level offers step change.  Also, the more vision you have, the better you can steer your expansion towards the next level planets.&lt;/p&gt;
+<div class="side-title"> 01.  GOALS </div>
 
-&lt;p&gt;War: Due to energy decay over distance, defenders have signficant advantage. This means that it’s often better to expand to unclaimed planets, than to try to claim planets from other pilots. This offers a natural peace, at least until nearby unclaimed planets run out.&lt;/p&gt;
+<h3 id="design-and-implement-pool-feature-to-the-current-website">Design and implement pool feature to the current website</h3>
 
-&lt;p&gt;Quasars: Inverts the defender’s advantage since they take time to capture and charge up, and so are often left empty. Can be an good mounting point for an attack.&lt;/p&gt;
+<p>Maintain the current website information architecture</p>
 
-&lt;p&gt;Until next time, space farers. Capatain Zhang, out.&lt;/p&gt;</content><author><name>Yitong</name></author><summary type="html">Day seven in the dark forest, where I’m now strategically watching commit logs and deploying more hash power. Also, a dispatch from meatspace.</summary></entry><entry><title type="html">Dark Forest captain’s log 1</title><link href="/2021/05/26/darkforest1.html" rel="alternate" type="text/html" title="Dark Forest captain’s log 1" /><published>2021-05-26T00:00:00-07:00</published><updated>2021-05-26T00:00:00-07:00</updated><id>/2021/05/26/darkforest1</id><content type="html" xml:base="/2021/05/26/darkforest1.html">&lt;p&gt;Dark forest space is vast. But I didn’t know that at first, busy as I was, claiming all celestial bodies in sight. But space had a way of quickly teaching you its lessons. &lt;!--more--&gt;&lt;/p&gt;
+<p>Display pools available to trade clearly</p>
 
-&lt;p&gt;The first issue I ran into was the fog of war. With my laptop’s paltry 600 hashes/sec, I quickly ran out of planets to claim. I had to find a way to increase my exploration speed. The easiest solution was to let dark forest use all the cores in my CPU with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;df.setMinerCores(6)&lt;/code&gt;, which gave me a nice 6x boost to 2400 hashes/sec. But even that was not sufficient, so I set up a more efficient rust miner on my machine with &lt;a href=&quot;https://github.com/projectsophon/darkforest-rs/tree/main/mimc-fast&quot;&gt;mimi-fast&lt;/a&gt; and &lt;a href=&quot;https://github.com/darkforest-eth/plugins/tree/master/content/productivity/remote-explore&quot;&gt;remote explore&lt;/a&gt;, which brought me to a nice 6000 hashes/sec. This gave me far more planets in view than I knew what to do with, which is what lead me to the &lt;a href=&quot;https://github.com/darkforest-eth/plugins/blob/master/content/productivity/crawl-planets/plugin.js&quot;&gt;crawl planets plugin&lt;/a&gt;. It’s not very smart, but sure helps cover ground quickly.&lt;/p&gt;
+<p>Shows information of assets in each pool</p>
 
-&lt;p&gt;Thanks to increased speed, it took no time for me to run into my two neighbours: jimjim_eth in yellow and 0xe98 in purple. Jimjim controls few astral bodies, but they’re all highly valuable. 0xe98 is the opposite: controlling everything in his sector, indiscriminate of value, most likely through the use of the same crawler I’m using. I can tell because the shape of his holding looks much like mine.&lt;/p&gt;
+<p>Design for future growth - easy to add more pools and assets to the website.</p>
 
-&lt;p&gt;At first, I was threatened by the discovery of two neighbouring civilizations so close by, but after examining their silver withdrawals on the global leaderboard, I was reassured to find that they were roughly in the same order of magnitude in power as me. I have no desire to fight them, but if I had to, I’m comforted by the thought that it wouldn’t be completely one-sided.&lt;/p&gt;
+<div class="side-title"> 02.  ITERATIONS </div>
 
-&lt;p&gt;With my growing holdings (which I refuse to call an empire, because my people deserve a better governance system, but that’s for later), it’s becoming more difficult to efficiently funnel my silver to space-time tears. I could try to set up a transfer routine, but that won’t get me too much further. And unfortunately, there’s no “withdraw silver plugin”, so that leaves me with no choice but to write my own.&lt;/p&gt;
+<h3 id="option-1---seperate-pool-page">Option 1 - Seperate Pool Page</h3>
 
-&lt;p&gt;If my neighbours don’t destroy me between now and the next log, these will be my action items:&lt;/p&gt;
+<p>I added a pool button to the top navigation bar for the first option, and the pool features became their separate page. Once users click on the button, they will be led to an individual pool page with an overview of the pool and a  list of different assets in that pool.</p>
 
-&lt;ol&gt;
-  &lt;li&gt;Write an auto silver withdrawal plugin&lt;/li&gt;
-  &lt;li&gt;Increase my exploration hash rate with a remote server.&lt;/li&gt;
-&lt;/ol&gt;
+<figure>
+    <img src="/assets/img/solendCase02.jpg" />
+</figure>
 
-&lt;p&gt;Captain Zhang, signing off. See you all in the &lt;a href=&quot;zkga.me&quot;&gt;Dark Forest&lt;/a&gt;.&lt;/p&gt;</content><author><name>Yitong</name></author><summary type="html">Dark forest space is vast. But I didn’t know that at first, busy as I was, claiming all celestial bodies in sight. But space had a way of quickly teaching you its lessons.</summary></entry><entry><title type="html">Site redesign update</title><link href="/2021/04/22/newblog2.html" rel="alternate" type="text/html" title="Site redesign update" /><published>2021-04-22T00:00:00-07:00</published><updated>2021-04-22T00:00:00-07:00</updated><id>/2021/04/22/newblog2</id><content type="html" xml:base="/2021/04/22/newblog2.html">&lt;p&gt;It’s been… uh nine months since the last update on this site’s open redesign. Progress is slow, but working this way has been dangerously fun.&lt;!--more--&gt;&lt;/p&gt;
+<h4 id="whats-working-">What’s working? 👍</h4>
 
-&lt;figure&gt;
-  &lt;img class=&quot;blogImage&quot; src=&quot;/assets/blogImg/newblog2/siteBefore.png&quot; alt=&quot;image of the blog, before&quot; /&gt;
-  &lt;figcaption&gt;Where we left off a few months ago: barely a step up from Jekyll&apos;s default theme.&lt;/figcaption&gt;
-&lt;/figure&gt;
+<p>This option uses space efficiently. The added pool feature won’t take up more space on the page, and more assets can be displayed at once. It also automatically leads the user to the pool Solend wants to promote.</p>
 
-&lt;figure&gt;
-  &lt;img class=&quot;blogImage&quot; src=&quot;/assets/blogImg/newblog2/siteAfter.png&quot; alt=&quot;image of the blog, after&quot; /&gt;
-  &lt;figcaption&gt;New update: still pretty basic, but cleaner, less default-feeling. &lt;/figcaption&gt;
-&lt;/figure&gt;
+<h4 id="whats-not-working-">What’s not working? 👎</h4>
 
-&lt;h2 id=&quot;fixing-some-long-overdue-issues&quot;&gt;Fixing some long overdue issues&lt;/h2&gt;
-&lt;p&gt;Can you believe this site didn’t work on mobile this entire time? I mean, I started the design with almost no layout, relying mostly on basic typography to create hierachy, so I thought the mobile would be usable enough I could come back and update it later. Turns out, I forgot to add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&amp;gt;&lt;/code&gt; to the head because who knew jekyll would initialize the boilerplate without? Anyway, that’s fixed.&lt;/p&gt;
+<p>Adding more pools to the website can be challenging. This option works well for a few pools, and if the platform further expands and has more pools added, there won’t be enough space in the top navigation bar to display all the pools, and users might have a hard time finding the pool they want to access.</p>
 
-&lt;p&gt;I also apparently forgot is to set up analytics, so for the last few months only the events fired from my hidden archival site were making it through to Google Analytics. That’s fixed too.&lt;/p&gt;
+<h4 id="conclusion-">Conclusion ❌</h4>
+<p>Even though this option uses space efficiently and works well for currently available pools, it is difficult for the company to add more pools in the future, which seems to be a significant constraint.</p>
 
-&lt;p&gt;Lastly, I cleaned up the date formatting on this site so that it’s always: date + month spelled out + last two letters of year (e.g. 03 mar 21), which I like for being unambiguous for non-US readers. You can also drop the date and it’s still readable.&lt;/p&gt;
+<p>Since the company is growing fast, one of the goals I’m trying to accomplish is to make sure my design fits with its projected growth and make it easier for them to add more pools in the future if needed.</p>
 
-&lt;h2 id=&quot;a-quick-pass-at-typography&quot;&gt;A quick pass at typography&lt;/h2&gt;
-&lt;p&gt;One cool thing about re-using a font you’ve already purchased is that you can have a font that you like, for free! Yay! But after that it all starts going downhill.&lt;/p&gt;
+<h3 id="option-2---drop-down-menu">Option 2 - Drop Down Menu</h3>
+<p>The page automatically leads the user to the default Solend pool for this option. A drop-down menu on the default pool button lists all the other pools and basic information about each pool.</p>
 
-&lt;p&gt;While Colfax’s slightly furistic yet friendly geometry served me well on the &lt;a href=&quot;http://flowchart.design/&quot;&gt;Autoflow marketing page&lt;/a&gt;, it’s not particularly ergonomic for text-heavy sites. The jump between regular and medium is pretty aggresive. I’ve seen this issue with Graphik too. You can manage by either sticking mostly to regular, or just build that thick medium into your design, which I don’t want to.&lt;/p&gt;
+<figure>
+    <img src="/assets/img/solendCase03.jpg" />
+</figure>
 
-&lt;p&gt;For now, I settled on a hacky compromise between the two approaches: using mostly regular, while subtly boosting the weight of my titles like this: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;h2{-webkit-text-stroke:0.4px; letter-spacing: 0.02rem;}&lt;/code&gt; I’m not particularly proud of it, but compared to before, I think this change, paired with some small tweaks to link styles and paragraph spacing will dial back the typographic presence a bit, which will tide me over while I look for a real type solution.&lt;/p&gt;
+<h4 id="whats-working--1">What’s working? 👍</h4>
 
-&lt;h2 id=&quot;whats-next&quot;&gt;What’s next&lt;/h2&gt;
-&lt;p&gt;My big goal is to land on a good type system for the site. I’m eager to try a serif for the body, play around with some of the weird stuff from &lt;a href=&quot;https://www.futurefonts.xyz/&quot;&gt;Future Fonts&lt;/a&gt;, and try to develop a multi-typeface site. But really, I’m just excited to have a reason to read Bethany Heck’s &lt;a href=&quot;https://www.futurefonts.xyz/&quot;&gt;Font Review Journal&lt;/a&gt; from front to back.&lt;/p&gt;
+<p>It contains more information about each pool. Users will see more statistics of each pool when they click on the drop-down menu. It also uses space efficiently, allowing users to see more assets at once.</p>
 
-&lt;p&gt;Oh and I think some kind of medium-like image zoom would be nice, now that I have more than one picture in my posts.&lt;/p&gt;
+<h4 id="whats-not-working--1">What’s not working? 👎</h4>
 
-&lt;p&gt;Overall, it continues to be fun designing directly in code. I still don’t have a Figma file or a Notion doc. Switching on the fly between blogging, designing, and coding in the same session is giving me a sense of flow that I’ve not experienced at work in a while. Everything feels so dangerously immediate, and I love it.&lt;/p&gt;</content><author><name>Yitong</name></author><summary type="html">It’s been… uh nine months since the last update on this site’s open redesign. Progress is slow, but working this way has been dangerously fun.</summary></entry><entry><title type="html">Some interesting tensions</title><link href="/2021/04/15/tensions.html" rel="alternate" type="text/html" title="Some interesting tensions" /><published>2021-04-15T00:00:00-07:00</published><updated>2021-04-15T00:00:00-07:00</updated><id>/2021/04/15/tensions</id><content type="html" xml:base="/2021/04/15/tensions.html">&lt;p&gt;This is a grab bag of tensions I wrestle with. They’re starting to take up too much space in my head, so I’m writing them down. &lt;!--more--&gt;&lt;/p&gt;
+<p>Users only see one pool unless they use the drop-down menu. Once click on the drop-down menu, it also blocks a significant portion of the page, especially if more pools are added to the website in the future.</p>
 
-&lt;h2 id=&quot;agency-vs-determinism&quot;&gt;Agency vs determinism&lt;/h2&gt;
+<h4 id="conclusion--1">Conclusion ❌</h4>
 
-&lt;p&gt;If you zoom out, a lot of arguments around questions of redistribution and fairness often boil down to a debate around how much an individual’s actions are their own vs determined by circumstances outside of their control. On a smaller scale, I find myself often struggling to find the right balance between believing in my ability to enact change and cutting myself some slack.&lt;/p&gt;
+<p>Even though this option shows users more information on each pool, I don’t particularly like it since the drop-down menu can become quite bulky if there are multiple pools. And also, the fact that it doesn’t show all pools available can be confusing since users might not realize there are pools besides the default Solend pool.</p>
 
-&lt;p&gt;When I was younger, I was all-in on individual agency, which I think I picked up from reading too many young adult novels. Through them, I came to believe that anything could happen if you only wanted it enough. Though naive, my belief in self-determination made me almost totally unflappable. I came to construe most events in my life as a result of effort. Everything had meaning. Every effect had a cause within my control.&lt;/p&gt;
+<p>I don’t think this is the strongest option for those two reasons.</p>
 
-&lt;p&gt;Then as I got older, I’ve come to understand that causation for most things is murky at best. Looking back at my now much longer record of decisions, I can see that many forks that could have gone either way are now major determinants of my life. In others, I’ve come to see how early circumstances can ripple through one’s life in great and terrible ways. I mean, how can you believe in self-determination when simply drinking too much water from lead pipes can change a child’s personality?
-So here’s where I am on this today: on an individual level, I think of it a little like diving. When you’re in it, you hold your breath and act with full agency, but when you come up for air, you accept that life does not bend to your will.&lt;/p&gt;
+<h3 id="option-3---pool-tab">Option 3 - Pool Tab</h3>
 
-&lt;h2 id=&quot;small-vs-strong-self&quot;&gt;Small vs strong self&lt;/h2&gt;
+<p>I kept the navigation bar and market overview for this option and added different pool tabs underneath them. Users can switch between different tabs to access various tools, and they will also see the statistic of each pool. When users hover over the tab, it will also show information, including the pool’s assets and the overall supply and borrow.</p>
 
-&lt;p&gt;One tenet of modern therapy is the concept of a small self, which is when you try to minimize what you consider, well, “you”. Your thoughts are not you. Your job is not you. Your passions are not you. You are the thing experiencing all these things.&lt;/p&gt;
+<figure>
+    <img src="/assets/img/solendCase04.jpg" />
+</figure>
 
-&lt;p&gt;The smaller your self is, the more resilient you are. It’s easier to differentiate having negative thoughts from believing and being those thoughts, easier to shed bad habits when they do not define you, easier to change course when a temporary injury becomes permanent, easier to reinvent yourself over and over again.
-But in my experience, it is also helpful to have a strong sense of self. When you know what you want, life sort of just lines up: you experience less FOMO, have more time to do what you want, and are more present when doing them.&lt;/p&gt;
+<h4 id="whats-working--2">What’s working? 👍</h4>
 
-&lt;p&gt;So how do you both have a small and strong self? For me, it goes back to that old cliché of “strong beliefs, loosely held”. Applied to selfhood, this means being able to simultaneously strongly express and quickly shed identities. It’s hard when you have to constantly explain the change to your friends, and especially hard when you discover self-perceptions that you didn’t even know you had until you tried to shed them.&lt;/p&gt;</content><author><name>Yitong</name></author><summary type="html">This is a grab bag of tensions I wrestle with. They’re starting to take up too much space in my head, so I’m writing them down.</summary></entry><entry><title type="html">A Short note on grace</title><link href="/2021/02/04/grace.html" rel="alternate" type="text/html" title="A Short note on grace" /><published>2021-02-04T00:00:00-08:00</published><updated>2021-02-04T00:00:00-08:00</updated><id>/2021/02/04/grace</id><content type="html" xml:base="/2021/02/04/grace.html">&lt;p&gt;In different periods of my life, I paid attention to different kinds of character traits. These days, it’s grace. But it hasn’t always been.&lt;!--more--&gt;  Early in my career, I was particularly drawn to ambition. I read all the PG essays and idolized the early YC founders. I believed that ambition was 80% of the reason behind any success. It was the trait that lead to enormous risk appetites, and fueled the grit and creativity to satiate it.&lt;/p&gt;
+<p>Allows users to see all the pools. They can easily switch between different pools. It can also accommodate any future pools Solend might want to add. Users can also have an overview of the pool when hovering.</p>
 
-&lt;p&gt;I still love ambition, but lately, I’ve also become far more attuned to the presence of grace. Definining grace is tricky. We often use it casually to mean beauty. That’s not what I’m interested in. The version I like is closer to the Christian definition, which is “free and unmerited favour that God gave to humanity by sending Jesus to die”. I think the first time I became aware of Grace was in my senior year of college. My seatmate Louisa spotted me reading Khalil Gibran in a particularly boring business school class and invited me to her Bible study group.&lt;/p&gt;
+<h4 id="whats-not-working--2">What’s not working? 👎</h4>
 
-&lt;p&gt;I was kind of an ass. I was sleeping in an unheated basement in Canada, stressed from running a startup, and dealing with a heavy courseload. Each night I went to their study group, I asked a ton of super skeptical questions – all of which they answered in good faith. Never trying to convert me. Just answering my questions as best they could. They even invited me to sleep over on their couch when they discovered my questionable sleeping arrangement.&lt;/p&gt;
+<p>This option uses up more space at the top. The page will display fewer assets.</p>
 
-&lt;p&gt;It wasn’t until much later that I had come to understand what they exibited as grace. If I have to describe it in my own words, it’s when you are good only because it is the right thing to do. Grace is a stronger version of nice, a more private version of generosity, a more intrinsict version charity. It’s in some ways the opposite of justice – which is about dealing to each what they deserve. Grace is when you believe in each person’s inherent worth in all cicumstances, and act according to that.&lt;/p&gt;
+<h4 id="conclusion--2">Conclusion ✅</h4>
 
-&lt;p&gt;These days, graceful is now the highest level of compliment I give.&lt;/p&gt;</content><author><name>Yitong</name></author><summary type="html">In different periods of my life, I paid attention to different kinds of character traits. These days, it’s grace. But it hasn’t always been.</summary></entry><entry><title type="html">Experts should curate</title><link href="/2020/08/16/curation.html" rel="alternate" type="text/html" title="Experts should curate" /><published>2020-08-16T00:00:00-07:00</published><updated>2020-08-16T00:00:00-07:00</updated><id>/2020/08/16/curation</id><content type="html" xml:base="/2020/08/16/curation.html">&lt;p&gt;You ever want to learn something, and just get totally overwhelmed by the near infinite number of guides out there? &lt;!--more--&gt;&lt;/p&gt;
+<p>It maintains the basic architecture of the website without the need to make significant changes. It can also satisfy the company’s future growth needs since one of the benefits of this option is how easily it can add more pools to the tab. It also has the benefits of the above two options - it allows users to see all the pools available clearly and readily switch between different pools and shows some basic statistics of each pool.</p>
 
-&lt;h2 id=&quot;learning-from-the-internet&quot;&gt;Learning from the Internet&lt;/h2&gt;
+<p>The only drawback of this option is that it doesn’t use the space on the top of the page efficiently. For the next step, I want to explore ways to lay out the elements, so the pool tabs don’t take up too much unnecessary space.</p>
 
-&lt;p&gt;Imagine you’re an early-career designer who wanted to depeen their understanding of typography, what do you do? Plugging “how to get better at typography” into Google returns a deluge of mediocre “content” from SaaS company blogs. Eventually, you read enough of these guides to understand the components of type usage: font choice &amp;amp; pairings, size scale, accessibility, etc. Then, you make your queries more specific and find the best guide on each topic.&lt;/p&gt;
+<div class="side-title"> 03. DESIGN </div>
 
-&lt;p&gt;That’s the process of learning anything on the internet. There are several metaskills at work here:&lt;/p&gt;
+<h3 id="all-pools-page">All pools page</h3>
 
-&lt;ol&gt;
-  &lt;li&gt;Knowing what to search for&lt;/li&gt;
-  &lt;li&gt;Decomposing your need into different steps&lt;/li&gt;
-  &lt;li&gt;Knowing which guide to follow for each step&lt;/li&gt;
-&lt;/ol&gt;
+<p>While talking to the team, we realized the need to have an additional page that lists all the pools available before users get into the pool tabs. This will be helpful as Solend grows and adds more pools. Users can see all the pools with key stats before getting into the pool.</p>
 
-&lt;p&gt;The tricky thing is that most of these skills are catch-22s. How do you know to search for when you don’t know what you’re supposed to learn? How do you decompose a problem into steps when you don’t understand a problem? How do you know what the best guide is for each step when you don’t know how that step works?&lt;/p&gt;
+<figure>
+    <img src="/assets/img/solendCase05.jpg" />
+</figure>
 
-&lt;p&gt;As a result, I’ve lost track of the number of times I’ve said to myself “I’m going to learn how to build a basic CRUD app this weekend” only to lose the entire two days wading through an ocean of guides without writing any code.&lt;/p&gt;
+<h3 id="market-stats">Market stats</h3>
 
-&lt;p&gt;For many domains of craft like product design and software engineering (though I can’t speak as well to the latter), there’s already a ton of great guides out there for most things you’d want to learn&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The real problem is figuring out which ones to follow. If we want to increase the amount of knowledge in the world, the marginal unit of expert time is better spent organizing than producing.&lt;/p&gt;
+<p>This page lists all the markets within each pool, and users can easily switch between different pools using the pool tab.</p>
 
-&lt;h2 id=&quot;knowledge-maps-out-there-today&quot;&gt;Knowledge maps out there today&lt;/h2&gt;
+<p>Users will also see more stats on the market when they hover over.</p>
 
-&lt;p&gt;One great example of this is &lt;em&gt;Khan Academy’s knowledge map of K–12 math&lt;/em&gt;, now defunct, alas. Having an authoritative source map out the knowledge space and their dependencies + provide a good resource to learn it means that a lot of the metawork outlined above is done for learners.&lt;/p&gt;
+<figure>
+    <img src="/assets/img/solendCase06.jpg" />
+</figure>
 
-&lt;figure&gt;
-  &lt;img class=&quot;blogImage&quot; src=&quot;/assets/blogImg/curation/knowledgeMap.png&quot; alt=&quot;khan academy knowledge map&quot; /&gt;
-  &lt;figcaption&gt;Khan academy knowledge map of K-12 math. Now deprecated 😢.&lt;/figcaption&gt;
-&lt;/figure&gt;
+<div class="side-title"> 04.  IMPACT </div>
 
-&lt;p&gt;Unfortunately, K-12 math today is not too different from where it was 10 years ago. So a map of knowledge here has limited utility compared to domains that are rapidly changing like software engineering, where the canonical way of doing something today is often radically different than 10 years ago.&lt;/p&gt;
+<h3 id="the-total-assets-supplied-increased-more-than-40-after-the-redesign">The total assets supplied increased more than 40% after the redesign.</h3>
 
-&lt;p&gt;Another drawback of this map is that it only links to first party content. Sal Khan is an amazing educator, but is he better than the rest of the Internet combined?&lt;/p&gt;
+<p>After the redesign, the total assets grew from $800M to $1.3B. I am still working closely with the amazing team to design more features. Stay tunned!</p>
 
-&lt;p&gt;Addressing exactly the above two is the &lt;em&gt;Open Source Society University&lt;/em&gt; – most well known for their &lt;a href=&quot;https://github.com/ossu/computer-science&quot;&gt;open source computer science curriculum&lt;/a&gt;. It works like the name says: the whole thing is a github read.me that anyone can contribute to (though in practice, there seems to be only 1-2 maintainers), describing a computer science syllabus where all the content is from free 3rd parties sources.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img class=&quot;blogImage&quot; src=&quot;/assets/blogImg/curation/ossu.png&quot; alt=&quot;OSSU&quot; /&gt;
-  &lt;figcaption&gt;Screenshot of the OSSU curriculum&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;While an improvement over some dimensions, this approach still leaves much to be desired in the following aspects:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Maintenance cost&lt;/em&gt; There are only &lt;a href=&quot;https://github.com/ossu/computer-science/graphs/contributors&quot;&gt;~1.5 contributors&lt;/a&gt;. We need 100x more if we want to tend a truly comprehensive garden of knowledge for any topic. How do we motivate them? For a deep dive on the people who work on open source, I recommend picking up the book &lt;a href=&quot;https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862&quot;&gt;Working in Public&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Modularity of content&lt;/em&gt; Probably a downstream consequence of lacking maintainers, but almost all sections of OSSU lead to full EDX style courses. This is not particularly useful for the most common mode of Internet learning: picking up only the exact knowledge necessary to unblock yourself on a project.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Connecting the dots&lt;/em&gt; How does the knowledge from one course relate to the next? This gets especially tricky when the material is cobbled together from 3rd party sources that don’t talk to each other. Having even a 5% gap in coverage between modules can send learners down a rabbit hole that exhausts their motivation. This problem gets worse when you start making content more modular.&lt;/p&gt;
-
-&lt;h2 id=&quot;an-even-better-knowledge-map&quot;&gt;An even better knowledge map&lt;/h2&gt;
-
-&lt;p&gt;Based on the lessons from KA and OSSU, how do you make a better knowledge map?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Comprehensive and detailed syllabus of knowledge&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Third party, to leverage the Internet&lt;/li&gt;
-  &lt;li&gt;Granular, so you can drill into a specific topic&lt;/li&gt;
-  &lt;li&gt;Comprehensive, so you can situate yourself within the domain&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Discussion of source material&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;For different kinds of learners (video vs text vs project) with different kinds of prereqs&lt;/li&gt;
-  &lt;li&gt;Discuss how they relate to prereqs. Fill in any gaps.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Community of maintainers&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;To keep expading the graph, and updating content.&lt;/li&gt;
-  &lt;li&gt;To Identify areas with weaker coverage, and call for writers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You could boostrap the first two for a while, but will eventually need to find a solution to the community problem – whether in an open source way, or by forming a company.&lt;/p&gt;
-
-&lt;p&gt;Ultimately, a knowledge map on its own is not useful unless people are active deriving value from it and the answer to the community problem will entirely depend on who derives value.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Mostly true for fundamental topics. There’s obviously not enough documentation at the edges of any domain, but most people are not there, and the people who are are better equipped with the metaskills needed to help themselves. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Yitong</name></author><summary type="html">You ever want to learn something, and just get totally overwhelmed by the near infinite number of guides out there?</summary></entry><entry><title type="html">Being negatively-driven</title><link href="/2020/08/07/negative-drive.html" rel="alternate" type="text/html" title="Being negatively-driven" /><published>2020-08-07T00:00:00-07:00</published><updated>2020-08-07T00:00:00-07:00</updated><id>/2020/08/07/negative-drive</id><content type="html" xml:base="/2020/08/07/negative-drive.html">&lt;p&gt;For as long as I remember, I’ve derived much of my force of will from negativity: feeling not smart enough, watching my peers be more successful, not having gone to a famous college&lt;!--more--&gt;, having done a professional bootcamp, competing with coworkers (secretly!), being an alien in an anti-immigrant country, and a million other nothings that find their way on my shoulder and stay there to become chips.&lt;/p&gt;
-
-&lt;p&gt;My friends are the same – absurdly driven by a sense of not being enough. One of them almost comically so. The guy had a blue light lamp on his desk pointed to his face to keep him awake so he can work longer hours. (Love you Mike, but you’re gonna die young). Maybe this is a Canadian thing. Always being in the shadow of the US can really give you a complex.&lt;/p&gt;
-
-&lt;p&gt;I’ve always know that this was unhealthy. Obviously, wouldn’t it be nice if I could have the same drive to do things, but also be more happy? Of course I’d want to change this. But it’s hard for several reasons.&lt;/p&gt;
-
-&lt;p&gt;Most obviously, this &lt;em&gt;negativity fuel really works&lt;/em&gt;. I’m a high level designer at a pretty famous tech company where I work daily with people whose work I grew up looking up to. And this job provides me financial comfort in the most expensive city in the world. By all accounts, this is what young Yitong would have considered a successful life. Why mess with the source of my willfullness when being willfull has given me success and, because of that, now constitutes a large part of my identity. What if in doing away with the negativity, I also lose some of the drive? Would I even want to be happier, but less driven?&lt;/p&gt;
-
-&lt;p&gt;Then there’s the guilt that I feel when I try to think too deeply about this. Even as I’m writing this, I can hear my inner voice saying “do you think [insert successful friend] is wasting time on thoughts like this? They’re working on their next thing while you’re wallowing in self-doubt. Move on already!”&lt;/p&gt;
-
-&lt;p&gt;A slightly more rational rephrasing of the same thought could be: what if the solution is to fake it ‘till you make it? Maybe you just have convince yourself that the negativity is not a problem until it really isn’t anymore. Certainly a lot of life works this way, so why wouldn’t this?&lt;/p&gt;
-
-&lt;p&gt;And this last one is silly, but I just can’t get over the aesthetics of the solution space, which is often tinged with an orientalist worship of meditation, and adjacent to weird Tim Ferris-style productivity-guru-ism. Conversely, I also like the aesthetics of the negativity-driven energy. Wearing all the chips on my shoulder makes feel like the underdog or an outsider.&lt;/p&gt;
-
-&lt;p&gt;Maybe six months of quarantine has made me feel listless too many Fridays in a row. Maybe work kinda sucks right now. Maybe I have this shiny new blog that needs content. Whatever it is, I’ve decided to try to talk about and process these feelings in public, much like Ankit has done with &lt;a href=&quot;https://www.ankit.fyi/being-alone&quot;&gt;loneliness&lt;/a&gt;, and Laura with with &lt;a href=&quot;https://ldeming.posthaven.com/how-not-to-be-sad&quot;&gt;sadness&lt;/a&gt;. Solving this problem now is valuable to me because:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Negative energy is brittle&lt;/em&gt;. You can accumulate so much of it that you get bent out of shape over silly things. It’s also a poor source of energy when you are dealing with hardship in life (and since it’s COVID times, we’re all dealing with hardhships 24/7).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Negative energy is less creative&lt;/em&gt; It really gets you going when what needs doing is clear, and the challenge is in the execution, but lately the problems I face have shifted from doing to figuring out what to do.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Happiness is worth investing in&lt;/em&gt; I’ve never prioritized my own happiness because it felt more important to do great things. But I’m starting to think that being happy will unlock a new frontier of things that I would otherwise not be able to do.&lt;/p&gt;
-
-&lt;p&gt;There’s no solution here, but laying out the problem statement is a start to what I hope is a series of posts digging deeper into my negative energy, and turning that around.&lt;/p&gt;</content><author><name>Yitong</name></author><summary type="html">For as long as I remember, I’ve derived much of my force of will from negativity: feeling not smart enough, watching my peers be more successful, not having gone to a famous college</summary></entry><entry><title type="html">Redesigning my site in the open</title><link href="/2020/07/24/newblog1.html" rel="alternate" type="text/html" title="Redesigning my site in the open" /><published>2020-07-24T00:00:00-07:00</published><updated>2020-07-24T00:00:00-07:00</updated><id>/2020/07/24/newblog1</id><content type="html" xml:base="/2020/07/24/newblog1.html">&lt;p&gt;I haven’t updated my personal website since late 2017 – probably the longest period ever between two redesigns. It’s held up well for over 4 years, but it’s time for a refresh.&lt;!--more--&gt; I have several motivations for this latest effort. First, I’m writing more so I’d like a blog-first design, something that can be a permanent home for my thoughts on the internet for decades to come. Second, I’m itching to write more code lately, and Jekyll is a pretty low friction way of getting back into. Lastly, I’ve been toying around with the idea of building a Notion-driven Jekyll competitor, so I figured that before embarking on that, I’d make at least a serious attempt at building something on Jekyll to see where it performs well and where it falls short.&lt;/p&gt;
-
-&lt;p&gt;Something else that I’d like to experiment with is designing this site directly in code. I’ve done this on some smaller projects before, but never tried it on anything of this level, so it should be fun. I have a general idea of where I’d like to go with the design, but am planning on figuring most of it out as I go. As a result, I expect this site to be pretty janky while it is under construction.&lt;/p&gt;
-
-&lt;p&gt;First up, getting rid of &lt;a href=&quot;https://github.com/jekyll/minima&quot;&gt;Minima&lt;/a&gt; in order to roll my own theme. Things are gonna look pretty barebones to start with, but I’m exciting to get something out there. After a few hours of noodling around, I got myself set up with a pretty basic site from scratch – it’s barely designed at all, but at least the typography no longer hurts my eyes. I went with Colfax and a bit of IBM Plex, the former because it was a typeface I had already paid for, and the latter for dates and, at least aspirationally, code snippets. I’d like to buy something more fun from &lt;a href=&quot;https://www.futurefonts.xyz/&quot;&gt;Future Fonts&lt;/a&gt; later, but I’ve got to figure out the baseline for the rest of the site before letting myself fall down the type rabbit hole.&lt;/p&gt;
-
-&lt;p&gt;Incidentally, I really appreciate foundries like &lt;a href=&quot;https://processtypefoundry.com/help/base/how-many-domains-can-use-the-fonts/&quot;&gt;Process&lt;/a&gt; that issue licenses allowing for usage on multiple domains. It’s nice to have a small roster of fonts that can be easily used on small projects. Typekit used to serve this purpose for me, but I’ve grown to hate the subscription fee lately. I’d much rather pay the maker of the product directly and own the license.&lt;/p&gt;
-
-&lt;p&gt;Next time, I’d like to put up a work section covering the projects I’ve done. Might also look into an image layout so that I can stick a couple of pictures up on my about page.&lt;/p&gt;</content><author><name>Yitong</name></author><summary type="html">I haven’t updated my personal website since late 2017 – probably the longest period ever between two redesigns. It’s held up well for over 4 years, but it’s time for a refresh.</summary></entry><entry><title type="html">The structure of progress in craft</title><link href="/2020/06/03/craft-progress.html" rel="alternate" type="text/html" title="The structure of progress in craft" /><published>2020-06-03T00:00:00-07:00</published><updated>2020-06-03T00:00:00-07:00</updated><id>/2020/06/03/craft-progress</id><content type="html" xml:base="/2020/06/03/craft-progress.html">&lt;p&gt;There’s a lot of research on the structure of progress in science (Kuhn, Popper, Deutsch, etc.) but what about the progress of professional craft?&lt;!--more--&gt; How do we get better at programming, design, furniture building, cooking, entrepreneurship, etc.&lt;/p&gt;
-
-&lt;p&gt;And by the way, if these fields feel like they are unrelated, you’re right. Cooking is not the same as entrepreneurship. That’s why great cooks are not automatically great restauranteurs. But I’d like to suggest that both fields have a lot of commonality in their epistemology. The process of getting better might be surprisingly similar across all these professions.&lt;/p&gt;
-
-&lt;p&gt;And these professions do advance, some faster than others. Most obvious in programming. The default answer is that the tools are getting better, but that’s not the only thing. Even if it was, we’re still far from understanding how tools get better.&lt;/p&gt;
-
-&lt;p&gt;Just because Figma is better than Illustrator for product design does not automatically make you a better designer. You need process knowledge, understanding of history, a community of practitioners, and much more.&lt;/p&gt;
-
-&lt;p&gt;Really, we don’t even have a reasonable list of inputs into good craft. Here are some questions I’d like to better understand:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What are the constraining factors on tooling improvement? For example, why did tooling grow far more quickly in programming than product design?&lt;/li&gt;
-  &lt;li&gt;What about the more subjective part of craft? What is beautiful design? What is elegant code? How do our tools internalize and shape subjective practices?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A better understanding of craft would yield great societal dividends. Most people are engaged on a day to day in activities that look more like craft than science.&lt;/p&gt;</content><author><name>Yitong</name></author><summary type="html">There’s a lot of research on the structure of progress in science (Kuhn, Popper, Deutsch, etc.) but what about the progress of professional craft?</summary></entry></feed>
+<!-- <a href=""><button class="superbutton">NEXT PROJECT</button></a> -->]]></content><author><name>Yishan</name></author><summary type="html"><![CDATA[00. BACKGROUND]]></summary></entry></feed>

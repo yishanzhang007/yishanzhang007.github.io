@@ -2,17 +2,79 @@
 layout: default
 title: Blog
 ---
-<h1 class="pageHeader">Writing</h1>
+<div class="background bg-index">
+<div class="bg-inner">
+{% include navigation.html %}
+<section class="intro">
+<div class="intro-top">
+  <h1 class="intro-title">I’m Yishan. I design space in physical and digital worlds.</h1>
+  <h5 class="intro-subtitle">An architect and urban designer dived in the world of digital creation. Currently working with tech start up founders, engineers and designers to create website, mobile Apps and brand identity.</h5>
+</div>
 
-{% for post in site.posts %}
-  <section>
-    <a href="{{ post.url }}">
-      <div class="main-title-box">
-        <h2>{{ post.title }}</h2>
-        <h5>{{ post.date | date: "%b %Y" }}</h5>
+<div class="intro-bottom">
+  <img src="assets/img/yishan.jpg" alt="">
+  <a href="#workjump"><button class="superbutton">View Work</button></a>
+  <div>
+    <div class="selfDescription">
+      <h5>I was born in China, and spent my adulthood life in New York and Bay area. I went to school for architecture and urban design, but started to grow interest in product design through talking to people and internet. Outside of work you can find me in gym, dancing, and spoil my two cats.</h5>
+      <div class="selfDescription-meta">
+        <h5>Oakland, California</h5>
+        <h5>yishan.zhang007@gmail.com</h5>
       </div>
-      <div>{{ post.excerpt }}</div>
-    </a>
-  </section>
+
+    </div>
+  </div>
+</div>
+
+</section>
+
+<div class="seperator" id="workjump">
+  <div><h6>Currently working on</h6></div>
+  <div><h6>2022</h6></div>
+</div>
+<section" class="design cases">
+{% for post in site.posts %}
+  <a href="{{ post.url }}">
+    <div class="caseStudy">
+      <div class="caseMetadata">
+        <h2>{{ post.title }}</h2>
+        <div class="metadataItem">
+          <p>Client</p>
+          <p>{{ post.client }}</p>
+        </div>
+        <div class="metadataItem">
+          <p>Field</p>
+          <p>{{ post.field }}</p>
+        </div>
+        <div class="metadataItem">
+          <p>My role</p>
+          <p>{{ post.role }}</p>
+        </div>     
+        <div class="metadataItem">
+          <p>Duration</p>
+          <p>{{ post.duration }}</p>
+        </div>
+        <p class="case-description">{{ post.description_long }}</p>
+      </div>
+      <img src="{{ post.imglink }}" alt="">
+    </div>
+  </a>
 {% endfor %}
-{% include mailinglist.html %}
+</section>
+
+<div class="seperator">
+  <div><h5>As an architect I designed</h5></div>
+  <div><h5>2022</h5></div>
+</div>
+
+<section class="arch cases">
+<img src="assets/img/communityCenter.jpg" alt="">
+<div class="arch-description">
+  <h2>Southeast Community Center</h2>
+  <h5>Design, Construction & Project Management</h5>
+  <p>As one of the major projects I worked on at the City of San Francisco, I was involved in the design, construction administration and project management of the Southeast Community Center in India Basin neighborhood in San Francisco. The project will complete in May 2022.</p>
+</div>
+</section>
+{% include footer.html %}
+</div>
+</div>

@@ -1,14 +1,38 @@
 ---
 layout: default
 ---
-<div class="modalBackground"></div>
-<div class="post-title-box">
-    <h1>{{ page.title }}</h1>
+<div class="background bg-post">
+<div class="bg-inner">
+{% include navigation.html %}
+<h3 class="post-title">{{ page.description_short }}</h3>
+<div class="post-header">
+  <div class="post-metadata">
+      <div class="metadataItem">
+        <h5>Client</h5>
+        <p>{{ page.client }}</p>
+      </div>
+      <div class="metadataItem">
+        <h5>Field</h5>
+        <p>{{ page.field }}</p>
+      </div>
+      <div class="metadataItem">
+        <h5>My role</h5>
+        <p>{{ page.role }}</p>
+      </div>     
+      <div class="metadataItem">
+        <h5>Duration</h5>
+        <p>{{ page.duration }}</p>
+      </div>
+  </div>
+  <div class="header-image">
+      <img src="{{ page.heroImglink }}" alt="">
+  </div>
 </div>
-<div class="spacer16"></div>
+
 <div class="post">
 {{ content }}
 </div>
-<script src="/assets/js/modal.js"></script>
 
-{% include mailinglist.html %}
+{% include footer.html %}
+</div>
+</div>

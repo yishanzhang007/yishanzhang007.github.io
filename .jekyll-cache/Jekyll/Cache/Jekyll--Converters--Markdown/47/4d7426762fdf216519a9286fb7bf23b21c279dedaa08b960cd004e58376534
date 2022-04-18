@@ -1,0 +1,129 @@
+I"�<div class="side-title"> 00.  OVERVIEW </div>
+
+<h3 id="i-designed-a-mobile-app-that-allows-investors-to-track-investment-across-multiple-platforms-and-make-better-investment-decisions">I designed a mobile app that allows investors to track investment across multiple platforms and make better investment decisions.</h3>
+
+<p>I made a mobile App mock-up and prototyping using Figma. Users can use the App to track their investment performance within one App instead of switching between different platforms.</p>
+
+<div class="side-title"> 01.  BACKGROUND </div>
+
+<h3 id="what-can-i-do-to-help-investors-save-time-and-better-track-their-investments-on-different-platforms">What can I do to help investors save time and better track their investments on different platforms?</h3>
+
+<p>Investment has never been this easy and this hard. Individual investors have so many different investment platforms to trade various assets, as a result, if they want to compare their investment performances, they need to switch between different platforms.</p>
+
+<div class="side-title"> 02.  DEFINING </div>
+
+<h3 id="feature-prioritization">Feature prioritization</h3>
+
+<p>From user testing and informal interview with people, I identified key features I want to incorporate into the App, and some backup features to be included as the next step.</p>
+
+<figure>
+    <img src="/assets/img/trainCase01.jpg" />
+</figure>
+
+<div class="side-title"> 03.  ITERATIONS </div>
+
+<h3 id="early-sketches">Early sketches</h3>
+
+<p>Once I identified the key features, I sketched key screens,  including connecting accounts, viewing investments, comparing assets, and analytical data.</p>
+
+<figure>
+    <img src="/assets/img/trainCase02.jpg" />
+</figure>
+
+<h3 id="usertesting">Usertesting</h3>
+
+<p>I had some friends test out the paper sketch and see if anything was unclear and took notes of their reactions while they tried the sketch. I identified a couple of problems with the current sketch.</p>
+
+<h4 id="whats-working-">What’s working? 👍</h4>
+<ol>
+  <li>Sign in screen and connect account screen look familiar to the user</li>
+  <li>Testers can understand what the analysis screen does</li>
+  <li>Compare screen is straightforward and clear</li>
+</ol>
+
+<h4 id="whats-not-working-">What’s not working? 👎</h4>
+<ol>
+  <li>Testers are confused about the change view tab on the home screen</li>
+  <li>Testers are unsure about the difference between browse and analysis</li>
+  <li>Testers pointed out the button to change the time frame on the analysis screen seems to be repetitive as the sliding bar</li>
+</ol>
+
+<div class="side-title"> 04.  IDENTITY </div>
+
+<h3 id="ui-elements">UI Elements</h3>
+
+<p>I designed typography, components, and UI elements to be consistent across different screens.</p>
+
+<figure>
+    <img src="/assets/img/trainCase03.jpg" />
+</figure>
+
+<div class="side-title"> 05.  IDENTITY </div>
+
+<h3 id="ui-design-and-prototyping">UI Design and Prototyping</h3>
+
+<p>After I redesigned the screen for all four key screens and did prototyping and user testing to make sure the design and interactions make sense.</p>
+
+<div class="mobile-video">
+  <figure>
+      <img src="/assets/img/trainCase04.jpg" />
+  </figure>
+  <div class="mobile-video-description">
+      <h4>Onboarding</h4>
+      <p>I try to make the on boarding experience easy and user friendly for the new users. They can follow the step by step guidance and easily create account and connect investment account they have.</p>
+  </div>
+</div>
+
+<div class="mobile-video">
+  <figure>
+      <img src="/assets/img/trainCase05.jpg" />
+  </figure>
+  <div class="mobile-video-description">
+      <h4>Combined and individual investment</h4>
+      <p>Combined Investment and time tab
+        Once users connect their investment accounts, they will see their combined investment performance over a different period, and they can easily switch the time frame.
+        
+        Categoriezed assets card
+        Below the combined investment chart, users can see their assets categorized into different cards based on the type. The category with the most money will appear on the top, and when users switch time frames, they will see other cards appear on the top.
+        
+        List of individual assets
+        Users can also expand the card and see a detailed list of assets in each category.</p>
+  </div>
+</div>
+
+<div class="mobile-video">
+  <figure>
+      <img src="/assets/img/trainCase06.jpg" />
+  </figure>
+  <div class="mobile-video-description">
+      <h4>Analytical Data</h4>
+      <p>See top gainers and losers
+        See top gainers and losers in all of your assets within a different time frame.
+        
+        See portfolio composition
+        A pie chart shows each category's portfolio composition and breaks each type into different sectors.</p>
+  </div>
+</div>
+
+<div class="mobile-video">
+  <figure>
+      <img src="/assets/img/trainCase06.jpg" />
+  </figure>
+  <div class="mobile-video-description">
+      <h4>Compare Investment</h4>
+      <p>Select individual assets and compare their performance within the selected time frame.</p>
+  </div>
+</div>
+
+<div class="side-title"> 06.  REFLECTION </div>
+
+<h3 id="what-would-i-have-done-differently">What would I have done differently?</h3>
+
+<p>I had a lot of fun designing a product that solved a problem I’m constantly having, but I wish I started thinking about the direction I was going after talking to more people and did more user research.  I might have pivoted my direction, who knows?</p>
+
+<p>Some of the UI elements I designed looked good to me back then, but now my design skill is sharpened I would have made different design decisions.</p>
+
+<h3 id="next-steps">Next Steps</h3>
+
+<p>I want to go back and revisit the design and finesse some UI elements, and publish this App.</p>
+:ET

@@ -1,17 +1,16 @@
-$color-primary: #000000;
-$color-secondary: #424850;
-$color-tertiary: #abb0b6;
-$color-line:#F0F0F0;
-$color-wash:#FAFAFA;
-$color-accent: #fff6c0;
-$color-neutral: #fff;    
+$color-primary: #365732;
+$color-primary-neutral: #2C302B;
+$color-secondary: #9AB597;
+$color-secondary-neutral: #7A7C79;
+$color-wash:#F8FAF6;
+$color-neutral:#FFF;
+$color-accent: #E05B33;
 
-.spacer8{height: 8px;}
-.spacer16{height: 16px;}
-.spacer24{height:24px;}
-.spacer40{height:40px;}
+$radius-small: 16px;
+$radius-large: 40px;
+$line-normal: 2px;
 
-$size-body: 640px;
+$size-body: 1260px;
 $speed-fast: 300ms;
 $speed-medium: 500ms;
 $speed-slow: 800ms;

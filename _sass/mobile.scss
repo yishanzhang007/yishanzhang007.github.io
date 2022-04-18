@@ -1,60 +1,44 @@
-@media all and (max-width: 700px) {
-    h1{
-        font-size: 2.4rem;
+@media (max-width: 850px) { //mobile
+    .bg-inner{
+        margin: 0 28px;
     }
-    nav{
-        .links h5{
-            margin-left: 16px;
-        }
-    }
-    .post-title-box{
-        h1{
-            margin-right: 0px;
-        }
-    }
-    .table-row{
+    
+    .intro-bottom, .caseStudy, .caseStudy:nth-child(2), .selfDescription-meta{
         flex-direction: column;
-        align-items: flex-start;
-        margin:4px 0px;
-        .table-location{
-            margin-right: 8px;
-        }
-        .table-date{
-            text-align: left;
-        }
     }
-    .masonry{
-        grid-template-columns: 1fr;
+
+    .selfDescription-meta h3{
+        margin-bottom: 8px;
+    }
+
+    .superbutton{
+        height: 120px;
+        width: 120px;
+        position: absolute;
+        left: calc(50% - 60px);
+        top: calc(39%);
+    }
+
+    .intro-bottom div, .intro-bottom img, .intro-top .intro-subtitle, .caseStudy .caseMetadata, .caseStudy img, .arch.cases .arch-description{
         width: 100%;
-        margin-left: 0px;
-        .masonry-item{
-            width: 100%;
-        }
+        max-width: 100%;
     }
-    .mailinglist{
-        margin: 24px 0px 16px 0px;
-        padding: 16px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        .whySignUp{
-            margin-bottom: 8px;
-        }
-        #mc_embed_signup{
-            margin-left: 0px;
-        }
-        #mc_embed_signup_scroll{
-            justify-content: center;
-            width: 100%;
-        }
-        form{
-            width: 100%;
-        }
-        input[type=email]{
-            width: 100%;
-        }
-        .mc-field-group{
-            width:calc( 100% - 100px )
-        }
+
+    h1, h2{
+        font-size: 3.6rem;
+        line-height: 4.2rem;
+    }
+    img, .intro-bottom div .selfDescription{
+        border-radius: $radius-small;
+    }
+    .intro-bottom div .selfDescription{
+        padding: 0px;
+        margin-top: 88px;
+        border: 0px;
+        
+    }
+
+    .seperator{
+        margin-bottom: 40px;
     }
 }
