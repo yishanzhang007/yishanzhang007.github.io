@@ -1,80 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yishan Zhang</title>
-    <link rel="stylesheet" href="https://use.typekit.net/vzu8qim.css">
-    <link rel="stylesheet" href="/assets/css/default.css">
-    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Solend</title>
-<meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Solend" />
-<meta name="author" content="Yishan" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="00. BACKGROUND" />
-<meta property="og:description" content="00. BACKGROUND" />
-<link rel="canonical" href="http://localhost:4000/2022/04/08/solend.html" />
-<meta property="og:url" content="http://localhost:4000/2022/04/08/solend.html" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-04-08T00:00:00-07:00" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Solend" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Yishan"},"dateModified":"2022-04-08T00:00:00-07:00","datePublished":"2022-04-08T00:00:00-07:00","description":"00. BACKGROUND","headline":"Solend","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2022/04/08/solend.html"},"url":"http://localhost:4000/2022/04/08/solend.html"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Solend">
-<meta property="og:description" content="">
-<meta property="og:url" content="http://localhost:4000/2022/04/08/solend.html">
-<meta property="og:site_name" content="">
-<meta property="og:image" content="https://www.zhayitong.com/assets/img/ogImage.jpg">
-
-<meta property="og:image:width" content="637" />
-<meta property="og:image:height" content="403" />
-  </head>
-  <body>
-    <div class="background bg-post">
-<div class="bg-inner">
-<nav>
-  <div class="nav-inner">
-    <h5 class=""><a href="yishanzhang.com"></a>Yishan</a></h5>
-    <div class="nav-links">
-      <h5><a href="mailto:yishanzhang007@gmail.com">Email</a></h5>
-      <h5> <a href="https://www.linkedin.com/in/yishan-zhang-8611a1237/">Linkedin</a></h5>
-    </div>
-  </div>  
-</nav>
-<h3 class="post-title">Solend, the decentralized lending market</h3>
-<div class="post-header">
-  <div class="post-metadata">
-      <div class="metadataItem">
-        <h5>Client</h5>
-        <p>Solend</p>
-      </div>
-      <div class="metadataItem">
-        <h5>Field</h5>
-        <p>Crypto / fintech</p>
-      </div>
-      <div class="metadataItem">
-        <h5>My role</h5>
-        <p>UX design</p>
-      </div>     
-      <div class="metadataItem">
-        <h5>Duration</h5>
-        <p>4 months</p>
-      </div>
-  </div>
-  <div class="header-image">
-      <img src="/assets/img/solendHero.jpg" alt="">
-  </div>
-</div>
-
-<div class="post">
-<div class="side-title"> 00.  BACKGROUND </div>
+I"�<div class="side-title"> 00.  BACKGROUND </div>
 
 <h3 id="solend-is-a-fast-growing-decentralized-lending-platform-with-a-total-supply-of-126b-since-first-established-in-2021">Solend is a fast-growing decentralized lending platform with a total supply of $1.26B since first established in 2021.</h3>
 
@@ -88,12 +12,13 @@
 
 <h3 id="design-and-implement-pool-feature-to-the-current-website">Design and implement pool feature to the current website</h3>
 
-<ol>
-  <li>Maintain the current website information architecture</li>
-  <li>Display pools available to trade clearly</li>
-  <li>Shows information of assets in each pool</li>
-  <li>Design for future growth - easy to add more pools and assets to the website.</li>
-</ol>
+<p>Maintain the current website information architecture</p>
+
+<p>Display pools available to trade clearly</p>
+
+<p>Shows information of assets in each pool</p>
+
+<p>Design for future growth - easy to add more pools and assets to the website.</p>
 
 <div class="side-title"> 02.  ITERATIONS </div>
 
@@ -105,15 +30,15 @@
     <img src="/assets/img/solendCase02.jpg" />
 </figure>
 
-<h4 id="whats-working">What’s working?</h4>
+<h4 id="whats-working-">What’s working? 👍</h4>
 
 <p>This option uses space efficiently. The added pool feature won’t take up more space on the page, and more assets can be displayed at once. It also automatically leads the user to the pool Solend wants to promote.</p>
 
-<h4 id="whats-not-working">What’s not working?</h4>
+<h4 id="whats-not-working-">What’s not working? 👎</h4>
 
 <p>Adding more pools to the website can be challenging. This option works well for a few pools, and if the platform further expands and has more pools added, there won’t be enough space in the top navigation bar to display all the pools, and users might have a hard time finding the pool they want to access.</p>
 
-<h4 id="conclusion">Conclusion</h4>
+<h4 id="conclusion-">Conclusion ❌</h4>
 <p>Even though this option uses space efficiently and works well for currently available pools, it is difficult for the company to add more pools in the future, which seems to be a significant constraint.</p>
 
 <p>Since the company is growing fast, one of the goals I’m trying to accomplish is to make sure my design fits with its projected growth and make it easier for them to add more pools in the future if needed.</p>
@@ -125,15 +50,15 @@
     <img src="/assets/img/solendCase03.jpg" />
 </figure>
 
-<h4 id="whats-working-1">What’s working?</h4>
+<h4 id="whats-working--1">What’s working? 👍</h4>
 
 <p>It contains more information about each pool. Users will see more statistics of each pool when they click on the drop-down menu. It also uses space efficiently, allowing users to see more assets at once.</p>
 
-<h4 id="whats-not-working-1">What’s not working?</h4>
+<h4 id="whats-not-working--1">What’s not working? 👎</h4>
 
 <p>Users only see one pool unless they use the drop-down menu. Once click on the drop-down menu, it also blocks a significant portion of the page, especially if more pools are added to the website in the future.</p>
 
-<h4 id="conclusion-1">Conclusion</h4>
+<h4 id="conclusion--1">Conclusion ❌</h4>
 
 <p>Even though this option shows users more information on each pool, I don’t particularly like it since the drop-down menu can become quite bulky if there are multiple pools. And also, the fact that it doesn’t show all pools available can be confusing since users might not realize there are pools besides the default Solend pool.</p>
 
@@ -147,15 +72,15 @@
     <img src="/assets/img/solendCase04.jpg" />
 </figure>
 
-<h4 id="whats-working-2">What’s working?</h4>
+<h4 id="whats-working--2">What’s working? 👍</h4>
 
 <p>Allows users to see all the pools. They can easily switch between different pools. It can also accommodate any future pools Solend might want to add. Users can also have an overview of the pool when hovering.</p>
 
-<h4 id="whats-not-working-2">What’s not working?</h4>
+<h4 id="whats-not-working--2">What’s not working? 👎</h4>
 
 <p>This option uses up more space at the top. The page will display fewer assets.</p>
 
-<h4 id="conclusion-2">Conclusion</h4>
+<h4 id="conclusion--2">Conclusion ✅</h4>
 
 <p>It maintains the basic architecture of the website without the need to make significant changes. It can also satisfy the company’s future growth needs since one of the benefits of this option is how easily it can add more pools to the tab. It also has the benefits of the above two options - it allows users to see all the pools available clearly and readily switch between different pools and shows some basic statistics of each pool.</p>
 
@@ -186,14 +111,4 @@
 <p>After the redesign, the total assets grew from $800M to $1.3B. I am still working closely with the amazing team to design more features. Stay tunned!</p>
 
 <!-- <a href=""><button class="superbutton">NEXT PROJECT</button></a> -->
-
-</div>
-<button class="superbutton"><a href="yishanzhang.com/2022/04/08/train.html">Next Project</a></button>
-<footer>
-
-</footer>
-</div>
-</div>
-
-  </body>
-</html>
+:ET

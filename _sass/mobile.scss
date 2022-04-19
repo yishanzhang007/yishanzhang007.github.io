@@ -1,6 +1,6 @@
 @media (max-width: 850px) { //mobile
-    .bg-inner{
-        margin: 0 28px;
+    .bg-post{
+        padding: 0 28px;
     }
     
     .intro-bottom, .caseStudy, .caseStudy:nth-child(2), .selfDescription-meta{
@@ -28,6 +28,16 @@
         font-size: 3.6rem;
         line-height: 4.2rem;
     }
+    
+    h3{
+        font-size: 3.2rem;
+        line-height: 4.4rem;
+    }
+    h4{
+        font-size: 2.2rem;
+        line-height: 2.8rem;
+    }
+
     img, .intro-bottom div .selfDescription{
         border-radius: $radius-small;
     }
@@ -41,4 +51,76 @@
     .seperator{
         margin-bottom: 40px;
     }
+    .bg-post{
+        .bg-inner{
+            margin:0px;
+        }
+        .post-header{
+            flex-direction:column-reverse;
+        }
+        .post-header .header-image{
+            width: 100%;
+        }
+        .side-title{
+            position: static;
+            margin-top: 104px;
+        }
+        .post img{
+            width: 100%;
+            position: static;
+            margin: 24px 0px;
+        }  
+        .metadataItem{
+            margin-bottom: 24px;
+            display: flex;
+            justify-content: space-between;
+            p{
+                margin:0px;
+            }
+        }
+        .post-metadata{
+            margin-top: 32px;
+        }
+        .post-header{
+            margin-bottom: 64px;
+        }
+        h3{
+            margin-top: 32px;
+            margin-bottom: 24px;
+        }
+        h4{
+            margin-top: 48px;
+        }
+        footer{
+            margin-top: 120px;
+        }
+        .superbutton{
+            margin-top: 80px;
+            position: static;
+        }
+        .mobile-video{
+            flex-direction: column;
+            border-radius: 0px;
+            background-color: $color-neutral;
+            padding: 0px 0px;
+            margin: 80px 0px;
+            p, h4{
+                color: $color-primary-neutral !important;
+            }
+            h4{
+                margin-top: 24px;
+            }
+
+        }
+        .post{
+            .switcher-image-desktop{
+                display: none;
+            }
+            .switcher-image-mobile{
+                display: block;
+            }
+        }
+
+    }
+
 }

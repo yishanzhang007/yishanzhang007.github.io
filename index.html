@@ -13,7 +13,7 @@ title: Blog
 
 <div class="intro-bottom">
   <img src="assets/img/yishan.jpg" alt="">
-  <a href="#workjump"><button class="superbutton">View Work</button></a>
+  <button class="superbutton"><a href="#workjump">View Work</button></a>
   <div>
     <div class="selfDescription">
       <h5>I was born in China, and spent my adulthood life in New York and Bay area. I went to school for architecture and urban design, but started to grow interest in product design through talking to people and internet. Outside of work you can find me in gym, dancing, and spoil my two cats.</h5>
@@ -34,7 +34,7 @@ title: Blog
 </div>
 <section" class="design cases">
 {% for post in site.posts %}
-  <a href="{{ post.url }}">
+  <a href="{{ post.url }}" class="caseStudy-wrapper">
     <div class="caseStudy">
       <div class="caseMetadata">
         <h2>{{ post.title }}</h2>
