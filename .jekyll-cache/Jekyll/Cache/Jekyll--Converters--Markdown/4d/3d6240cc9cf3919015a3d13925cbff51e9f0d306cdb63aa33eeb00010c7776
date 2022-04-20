@@ -1,80 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yishan Zhang</title>
-    <link rel="stylesheet" href="https://use.typekit.net/vzu8qim.css">
-    <link rel="stylesheet" href="/assets/css/default.css">
-    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Train</title>
-<meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Train" />
-<meta name="author" content="Yishan" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="00. OVERVIEW" />
-<meta property="og:description" content="00. OVERVIEW" />
-<link rel="canonical" href="http://localhost:4000/2022/04/08/train.html" />
-<meta property="og:url" content="http://localhost:4000/2022/04/08/train.html" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-04-08T00:00:00-07:00" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Train" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Yishan"},"dateModified":"2022-04-08T00:00:00-07:00","datePublished":"2022-04-08T00:00:00-07:00","description":"00. OVERVIEW","headline":"Train","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2022/04/08/train.html"},"url":"http://localhost:4000/2022/04/08/train.html"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Train">
-<meta property="og:description" content="">
-<meta property="og:url" content="http://localhost:4000/2022/04/08/train.html">
-<meta property="og:site_name" content="">
-<meta property="og:image" content="https://www.yishanzhang.com/assets/img/ogImage.jpg">
-
-<meta property="og:image:width" content="637" />
-<meta property="og:image:height" content="403" />
-  </head>
-  <body>
-    <div class="background bg-post">
-<div class="bg-inner">
-<nav>
-  <div class="nav-inner">
-    <h5><a href="https://www.yishanzhang.com">Yishan</a></h5>
-    <div class="nav-links">
-      <h5><a href="mailto:yishanzhang007@gmail.com">Email</a></h5>
-      <h5> <a href="https://www.linkedin.com/in/yishan-zhang-8611a1237/">Linkedin</a></h5>
-    </div>
-  </div>  
-</nav>
-<h3 class="post-title">Train, the personal finance tracker</h3>
-<div class="post-header">
-  <div class="post-metadata">
-      <div class="metadataItem">
-        <h5>Client</h5>
-        <p>Personal project</p>
-      </div>
-      <div class="metadataItem">
-        <h5>Field</h5>
-        <p>Fintech</p>
-      </div>
-      <div class="metadataItem">
-        <h5>My role</h5>
-        <p>Product design</p>
-      </div>     
-      <div class="metadataItem">
-        <h5>Duration</h5>
-        <p>3 months</p>
-      </div>
-  </div>
-  <div class="header-image">
-      <img src="/assets/img/trainHero.jpg" alt="">
-  </div>
-</div>
-
-<div class="post">
-<div class="side-title"> 00.  OVERVIEW </div>
+I"[<div class="side-title"> 00.  OVERVIEW </div>
 
 <h3 id="i-designed-a-mobile-app-that-allows-investors-to-track-investment-across-multiple-platforms-and-make-better-investment-decisions">I designed a mobile app that allows investors to track investment across multiple platforms and make better investment decisions.</h3>
 
@@ -113,14 +37,14 @@
 
 <p>I had some friends test out the paper sketch and see if anything was unclear and took notes of their reactions while they tried the sketch. I identified a couple of problems with the current sketch.</p>
 
-<h4 id="whats-working">What’s working?</h4>
+<h4 id="whats-working-">What’s working? 👍</h4>
 <ol>
   <li>Sign in screen and connect account screen look familiar to the user</li>
   <li>Testers can understand what the analysis screen does</li>
   <li>Compare screen is straightforward and clear</li>
 </ol>
 
-<h4 id="whats-not-working">What’s not working?</h4>
+<h4 id="whats-not-working-">What’s not working? 👎</h4>
 <ol>
   <li>Testers are confused about the change view tab on the home screen</li>
   <li>Testers are unsure about the difference between browse and analysis</li>
@@ -205,14 +129,4 @@
 <h3 id="next-steps">Next Steps</h3>
 
 <p>I want to go back and revisit the design and finesse some UI elements, and publish this App.</p>
-
-</div>
-<button class="superbutton"><a href="https://www.yishanzhang.com/2022/04/08/solend.html">Next Project</a></button>
-<footer>
-
-</footer>
-</div>
-</div>
-
-  </body>
-</html>
+:ET

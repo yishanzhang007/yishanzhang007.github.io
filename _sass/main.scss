@@ -271,10 +271,11 @@ footer{
         figure{
             max-width: 360px;
         }
-        img{
+        video{
             width: 100%;
             position: static;
             margin: 0px;
+            border-radius: $radius-small;
         }
         p, h4{
             color: $color-neutral !important;

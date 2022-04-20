@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-18T22:48:59-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Gimbowl</title><link href="http://localhost:4000/2022/04/08/gimbowl.html" rel="alternate" type="text/html" title="Gimbowl" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>http://localhost:4000/2022/04/08/gimbowl</id><content type="html" xml:base="http://localhost:4000/2022/04/08/gimbowl.html"><![CDATA[<div class="side-title"> 00.  OVERVIEW </div>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-19T22:38:48-07:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Gimbowl</title><link href="http://localhost:4000/2022/04/08/gimbowl.html" rel="alternate" type="text/html" title="Gimbowl" /><published>2022-04-08T00:00:00-07:00</published><updated>2022-04-08T00:00:00-07:00</updated><id>http://localhost:4000/2022/04/08/gimbowl</id><content type="html" xml:base="http://localhost:4000/2022/04/08/gimbowl.html"><![CDATA[<div class="side-title"> 00.  OVERVIEW </div>
 
 <h3 id="i-rebranded-and-redesigned-gimbowl-shopping-site-to-appeal-to-the-targeted-buyer">I rebranded and redesigned gimbOWL shopping site to appeal to the targeted buyer.</h3>
 
@@ -41,14 +41,14 @@
 
 <p>I had some friends test out the paper sketch and see if anything was unclear and took notes of their reactions while they tried the sketch. I identified a couple of problems with the current sketch.</p>
 
-<h4 id="whats-working-">What’s working? 👍</h4>
+<h4 id="whats-working">What’s working?</h4>
 <ol>
   <li>Sign in screen and connect account screen look familiar to the user</li>
   <li>Testers can understand what the analysis screen does</li>
   <li>Compare screen is straightforward and clear</li>
 </ol>
 
-<h4 id="whats-not-working-">What’s not working? 👎</h4>
+<h4 id="whats-not-working">What’s not working?</h4>
 <ol>
   <li>Testers are confused about the change view tab on the home screen</li>
   <li>Testers are unsure about the difference between browse and analysis</li>
@@ -73,7 +73,7 @@
 
 <div class="mobile-video">
   <figure>
-      <img src="/assets/img/trainCase04.png" />
+      <video src="/assets/video/trainCase04.mp4" autoplay="" playsinline="" muted="" loop=""></video>
   </figure>
   <div class="mobile-video-description">
       <h4>Onboarding</h4>
@@ -83,7 +83,7 @@
 
 <div class="mobile-video">
   <figure>
-      <img src="/assets/img/trainCase05.png" />
+      <video src="/assets/video/trainCase05.mp4" autoplay="" playsinline="" muted="" loop=""></video>
   </figure>
   <div class="mobile-video-description">
       <h4>Combined and individual investment</h4>
@@ -100,7 +100,7 @@
 
 <div class="mobile-video">
   <figure>
-      <img src="/assets/img/trainCase06.png" />
+      <video src="/assets/video/trainCase06.mp4" autoplay="" playsinline="" muted="" loop=""></video>
   </figure>
   <div class="mobile-video-description">
       <h4>Analytical Data</h4>
@@ -114,7 +114,7 @@
 
 <div class="mobile-video">
   <figure>
-      <img src="/assets/img/trainCase06.png" />
+      <video src="/assets/video/trainCase07.mp4" autoplay="" playsinline="" muted="" loop=""></video>
   </figure>
   <div class="mobile-video-description">
       <h4>Compare Investment</h4>

@@ -3,9 +3,9 @@
         padding: 0 28px;
     }
     
-    .intro-bottom, .caseStudy, .caseStudy:nth-child(2), .selfDescription-meta{
+    .intro-bottom, .caseStudy, .selfDescription-meta, .caseStudy-wrapper:nth-child(2) .caseStudy{
         flex-direction: column;
-    }
+    }    
 
     .selfDescription-meta h3{
         margin-bottom: 8px;
@@ -16,7 +16,7 @@
         width: 120px;
         position: absolute;
         left: calc(50% - 60px);
-        top: calc(39%);
+        top: calc(43%);
     }
 
     .intro-bottom div, .intro-bottom img, .intro-top .intro-subtitle, .caseStudy .caseMetadata, .caseStudy img, .arch.cases .arch-description{
