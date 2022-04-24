@@ -68,6 +68,9 @@ h5{ //tag
     font-size: 1.8rem;
     font-weight: 500;
 }
+h5 a:hover{
+    color: $color-accent;
+}
 
 h6{ //caption
     font-size: 1.6rem;

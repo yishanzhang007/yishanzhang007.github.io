@@ -12,14 +12,15 @@ title: Yishan Zhang
 </div>
 
 <div class="intro-bottom">
-  <img src="assets/img/yishan.jpg" alt="">
-  <button class="superbutton"><a href="#workjump">View Work</button></a>
+  <img src="assets/img/yishan.jpg" class="yishan-self">
+  <img src="assets/img/yishanCats.jpg" class="yishan-cats"">
+  <a href="#workjump"><button class="superbutton">View Work</button></a>
   <div>
     <div class="selfDescription">
       <h5>I was born in China, and spent my adulthood life in New York and Bay area. I went to school for architecture and urban design, but started to grow interest in product design through talking to people and internet. Outside of work you can find me in gym, dancing, and spoil my two cats.</h5>
       <div class="selfDescription-meta">
         <h5>Oakland, California</h5>
-        <h5>yishan.zhang007@gmail.com</h5>
+        <h5><a href="mailto:yishan.zhang007@gmail.com">yishan.zhang007@gmail.com</a></h5>
       </div>
 
     </div>
@@ -34,7 +35,7 @@ title: Yishan Zhang
 </div>
 <section" class="design cases">
 {% for post in site.posts %}
-  <a href="{{ post.url }}" class="caseStudy-wrapper">
+ 
     <div class="caseStudy">
       <div class="caseMetadata">
         <h2>{{ post.title }}</h2>
@@ -56,9 +57,15 @@ title: Yishan Zhang
         </div>
         <p class="case-description">{{ post.description_long }}</p>
       </div>
-      <img src="{{ post.imglink }}" alt="">
+      
+      <div class="image-container">
+        <a href="{{ post.url }}" class="caseStudy-wrapper">
+        <img src="{{ post.imglink }}" alt="">
+        <button class="superbutton viewCase">View Case</button>
+        </a>
+      </div>
     </div>
-  </a>
+
 {% endfor %}
 </section>
 

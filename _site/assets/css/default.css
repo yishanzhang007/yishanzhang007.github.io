@@ -51,17 +51,21 @@ h4 { font-size: 2.4rem; font-family: "new-spirit", Serif; }
 
 h5 { font-size: 1.8rem; font-weight: 500; }
 
+h5 a:hover { color: #E05B33; }
+
 h6 { font-size: 1.6rem; font-weight: 500; }
 
 p, ul, ol { margin-bottom: 12px; line-height: 2.6rem; }
 
-p a, ul a, ol a { transition: 300ms; }
+p a, ul a, ol a { transition: 100ms; }
 
 ol, ul { padding: auto; }
 
 a { text-decoration: none; color: inherit; }
 
-button { font-size: 1.8rem; font-family: "space-grotesque", Sans-Serif; border: 0px; cursor: pointer; transition: 300ms; }
+button { font-size: 1.8rem; font-family: "space-grotesque", Sans-Serif; border: 0px; cursor: pointer; transition: 100ms; }
+
+html { scroll-behavior: smooth; }
 
 .background { display: flex; justify-content: center; }
 
@@ -101,15 +105,19 @@ nav .selected::after { content: '•'; position: relative; top: -1.5px; margin-l
 
 .intro-bottom div .selfDescription-meta { margin-top: 32px; width: 100%; display: flex; justify-content: space-between; }
 
-.superbutton { height: 132px; width: 132px; border-radius: 100px; background-color: #E05B33; color: #FFF; position: absolute; left: calc(50% - 72px); top: 80px; transition: 300ms; text-transform: uppercase; font-weight: 500; }
+.superbutton { height: 132px; width: 132px; border-radius: 100px; background-color: #E05B33; color: #FFF; position: absolute; left: calc(50% - 72px); top: 80px; transition: 100ms; text-transform: uppercase; font-weight: 500; }
 
-.superbutton:hover { transform: scale(0.98); filter: brightness(95%); }
+.superbutton:hover { transform: rotate(-40deg); background-color: #365732; }
+
+.yishan-cats { position: absolute; opacity: 0; transition: 100ms; }
+
+.yishan-cats:hover { opacity: 1; }
 
 .seperator { margin: 240px 0px 64px 0px; width: 100%; display: flex; justify-content: space-between; border-bottom: 2px #9AB597 solid; color: #9AB597; text-transform: uppercase; }
 
-.caseStudy { display: flex; justify-content: space-between; margin-bottom: 160px; }
+.caseStudy { position: relative; display: flex; justify-content: space-between; margin-bottom: 160px; }
 
-.caseStudy .caseMetadata { position: relative; top: -12px; width: calc(30% - 16px); }
+.caseStudy .caseMetadata { position: relative; top: -12px; width: calc(30% - 32px); }
 
 .caseStudy .caseMetadata .metadataItem { display: flex; justify-content: space-between; margin-bottom: 8px; }
 
@@ -119,9 +127,17 @@ nav .selected::after { content: '•'; position: relative; top: -1.5px; margin-l
 
 .caseStudy .case-description { margin-top: 32px; }
 
-.caseStudy img { border: 2px #9AB597 solid; width: calc(70% - 16px); }
+.caseStudy .image-container { position: relative; width: calc(70% - 32px); }
 
-.caseStudy-wrapper:nth-child(2) .caseStudy { flex-direction: row-reverse; }
+.caseStudy .image-container img { transition: 100ms; width: 100%; border: 2px #9AB597 solid; }
+
+.caseStudy .image-container .viewCase { position: absolute; top: auto; left: auto; right: 60px; bottom: 60px; opacity: 0; }
+
+.caseStudy .image-container:hover img { filter: brightness(90%); }
+
+.caseStudy .image-container:hover .viewCase { opacity: 1; }
+
+.caseStudy:nth-child(2) { flex-direction: row-reverse; }
 
 .arch.cases img { max-width: 100%; }
 
