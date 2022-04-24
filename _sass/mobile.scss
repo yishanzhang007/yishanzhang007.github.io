@@ -1,9 +1,69 @@
-@media (max-width: 850px) { //mobile
-    .bg-post{
-        padding: 0 28px;
+@media (max-width: 1200px ) and (min-width:951px){ //small screen
+    .intro-top .intro-subtitle{
+        max-width: 75%;
     }
-    
-    .intro-bottom, .caseStudy, .selfDescription-meta, .caseStudy-wrapper:nth-child(2) .caseStudy{
+    .intro-bottom{
+        .generalDescription .selfDescription{
+            padding: 40px;
+        }
+        .superbutton{
+            top:auto;
+            left: 48px;
+            bottom: 48px;
+        }
+    }
+    .self-section{
+        display: none;
+    }
+    .bg-post{
+        .side-title{
+            position: static;
+            max-width: 780px;
+            margin:0px auto;
+            margin-top: 200px;
+        }
+        h3{
+            margin-top: 64px;
+        }
+        .post-header{
+            flex-direction: column-reverse;
+            max-width: 780px;
+            margin:0px auto;
+            .header-image{
+                width: 100%;
+            }
+            .post-metadata{
+                margin-top: 48px;
+                display: flex;
+                justify-content: space-between;
+            }
+        }
+    }
+
+}
+
+@media (max-width: 950px) { //mobile
+
+    .bg-post, .bg-index{
+        padding: 0 24px;
+        .bg-inner{
+            margin:0px;
+        }
+    }
+
+    .intro-bottom{
+        .generalDescription .selfDescription{
+            padding: 40px;
+            .experience .experienceItem{
+                flex-direction: column;
+                h5:nth-child(2){
+                    text-align: left;
+                }
+                margin: 16px 0px;
+            }
+        }
+    }
+    .intro-bottom, .caseStudy, .selfDescription-meta, .caseStudy:nth-child(2), .caseStudy{
         flex-direction: column;
     }    
 
@@ -16,10 +76,10 @@
         width: 120px;
         position: absolute;
         left: calc(50% - 60px);
-        top: calc(43%);
+        top: 350px;
     }
 
-    .intro-bottom div, .intro-bottom img, .intro-top .intro-subtitle, .caseStudy .caseMetadata, .caseStudy img, .arch.cases .arch-description{
+    .intro-bottom .generalDescription, .intro-bottom img, .intro-top .intro-subtitle, .caseStudy .caseMetadata, .caseStudy img, .arch.cases .arch-description{
         width: 100%;
         max-width: 100%;
     }
@@ -38,23 +98,32 @@
         line-height: 2.8rem;
     }
 
-    img, .intro-bottom div .selfDescription{
+    img, .intro-bottom .generalDescription .selfDescription{
         border-radius: $radius-small;
     }
     .intro-bottom div .selfDescription{
         padding: 0px;
-        margin-top: 88px;
+        margin-top: 48px;
         border: 0px;
         
+    }
+    .caseStudy{
+        .image-container{
+            width: 100%;
+        }
+        .superbutton{
+            display: none;
+        }
+    }
+    
+    .selfDescription>div{
+        margin-bottom: 40px;
     }
 
     .seperator{
         margin-bottom: 40px;
     }
     .bg-post{
-        .bg-inner{
-            margin:0px;
-        }
         .post-header{
             flex-direction:column-reverse;
         }
@@ -110,6 +179,9 @@
             h4{
                 margin-top: 24px;
             }
+            video{
+                border: 1px solid $color-secondary-neutral;
+            }
 
         }
         .post{
@@ -124,3 +196,4 @@
     }
 
 }
+
