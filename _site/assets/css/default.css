@@ -43,7 +43,7 @@ body::selection { background-color: #E05B33; }
 
 h1 { font-size: 8.0rem; line-height: 9.6rem; font-family: "new-spirit", Serif; }
 
-h2 { font-size: 4.8rem; font-family: "new-spirit", Serif; }
+h2 { font-size: 4.8rem; line-height: 5.4rem; font-family: "new-spirit", Serif; }
 
 h3 { font-size: 3.6rem; font-family: "new-spirit", Serif; }
 
@@ -125,7 +125,7 @@ nav .selected::after { content: '•'; position: relative; top: -1.5px; margin-l
 
 .caseStudy { position: relative; display: flex; justify-content: space-between; margin-bottom: 160px; }
 
-.caseStudy .caseMetadata { position: relative; top: -12px; width: calc(30% - 32px); }
+.caseStudy .caseMetadata { position: relative; top: 0px; width: calc(30% - 32px); }
 
 .caseStudy .caseMetadata .metadataItem { display: flex; justify-content: space-between; margin-bottom: 8px; }
 

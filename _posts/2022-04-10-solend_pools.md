@@ -1,15 +1,16 @@
 ---
 layout: post
+title: "Solend pools"
 client:  "Solend"
 field: "Crypto / fintech"
-role: "UX design"
+role: "Product design"
 duration: "4 months"
 imglink: "assets/img/solend.jpg"
 heroImglink: "/assets/img/solendHero.jpg"
 date:   2022-04-08 -0700
 location:   "Oakland, CA"
 author:   "Yishan"
-description_short: "Solend, the decentralized lending market"
+description_short: "Designing Solend isolated pool"
 description_long: "Solend is a decentralized lending and borrowing protocol on Solana. I designed and helped them implement pool feature to help users better navigate through different assets."
 nextCase: "https://www.yishanzhang.com/2022/04/08/train.html"
 ---
