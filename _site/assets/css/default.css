@@ -145,7 +145,7 @@ nav .selected::after { content: '•'; position: relative; top: -1.5px; margin-l
 
 .caseStudy .image-container:hover .viewCase { opacity: 1; }
 
-.caseStudy:nth-child(2) { flex-direction: row-reverse; }
+.caseStudy:nth-child(2), .caseStudy:nth-child(4) { flex-direction: row-reverse; }
 
 .arch.cases img { max-width: 100%; }
 
